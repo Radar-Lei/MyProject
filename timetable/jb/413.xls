@@ -1,0 +1,382 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 浦口公司七车队 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：413路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：石桥客运站 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>3081</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>06:30:00</td>
+					<td>06:37:41</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>2</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>07:10:00</td>
+					<td>07:10:02</td>
+					<td>33</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>3</td>
+					<td>3081</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>07:20:00</td>
+					<td>07:59:03</td>
+					<td>49</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>4</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>08:30:00</td>
+					<td>08:30:02</td>
+					<td>31</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>5</td>
+					<td>3081</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>09:10:00</td>
+					<td>09:10:36</td>
+					<td>40</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>6</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>09:50:00</td>
+					<td>09:50:02</td>
+					<td>40</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>7</td>
+					<td>3081</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>10:30:00</td>
+					<td>10:30:19</td>
+					<td>40</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>8</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>11:10:00</td>
+					<td>11:10:02</td>
+					<td>40</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>9</td>
+					<td>3081</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>13:40:00</td>
+					<td>13:42:24</td>
+					<td>152</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>10</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>14:10:00</td>
+					<td>14:39:43</td>
+					<td>57</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>11</td>
+					<td>3069</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>15:40:00</td>
+					<td>15:27:19</td>
+					<td>48</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>12</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>16:10:00</td>
+					<td>16:47:46</td>
+					<td>80</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>13</td>
+					<td>3069</td>
+					<td>王礼虎</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>17:10:00</td>
+					<td>17:29:57</td>
+					<td>42</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>14</td>
+					<td>3070</td>
+					<td>雍金华</td>
+					<td>石乌线下行</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>18:00:00</td>
+					<td>18:21:47</td>
+					<td>52</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

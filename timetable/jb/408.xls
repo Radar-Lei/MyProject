@@ -1,0 +1,416 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 浦口公司七车队 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：408路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：延寿路·桥林 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>3317</td>
+					<td>陈浩</td>
+					<td>步月路到延寿路</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>06:00:00</td>
+					<td>06:03:45</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>2</td>
+					<td>3318</td>
+					<td>王成</td>
+					<td>步月路到延寿路</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td>06:45:00</td>
+					<td>06:47:45</td>
+					<td>44</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>3</td>
+					<td>0669</td>
+					<td>董乔金</td>
+					<td>桥林到延寿路</td>
+					<td>07:14:31</td>
+					<td>3</td>
+					<td>16</td>
+					<td></td>
+					<td>07:30:24</td>
+					<td>43</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>4</td>
+					<td>0668</td>
+					<td>邹国祥</td>
+					<td>桥林到延寿路</td>
+					<td>08:10:35</td>
+					<td>2</td>
+					<td>4</td>
+					<td></td>
+					<td>08:14:42</td>
+					<td>44</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>5</td>
+					<td>3317</td>
+					<td>陈浩</td>
+					<td>桥林到延寿路</td>
+					<td>08:53:06</td>
+					<td>1</td>
+					<td>7</td>
+					<td></td>
+					<td>09:00:07</td>
+					<td>46</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>6</td>
+					<td>3318</td>
+					<td>王成</td>
+					<td>桥林到延寿路</td>
+					<td>09:11:32</td>
+					<td>3</td>
+					<td>4</td>
+					<td></td>
+					<td>09:15:18</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>7</td>
+					<td>0669</td>
+					<td>董乔金</td>
+					<td>桥林到延寿路</td>
+					<td>09:31:48</td>
+					<td>4</td>
+					<td>44</td>
+					<td>10:15:00</td>
+					<td>10:15:48</td>
+					<td>60</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>8</td>
+					<td>0668</td>
+					<td>邹国祥</td>
+					<td>桥林到延寿路</td>
+					<td>09:56:39</td>
+					<td>0</td>
+					<td>63</td>
+					<td></td>
+					<td>10:59:56</td>
+					<td>44</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>9</td>
+					<td>0666</td>
+					<td>王成</td>
+					<td>桥林到延寿路</td>
+					<td>12:09:42</td>
+					<td>3</td>
+					<td>6</td>
+					<td></td>
+					<td>12:15:11</td>
+					<td>76</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>10</td>
+					<td>0669</td>
+					<td>董乔金</td>
+					<td>桥林到延寿路</td>
+					<td>13:00:00</td>
+					<td>0</td>
+					<td>30</td>
+					<td></td>
+					<td>13:30:30</td>
+					<td>75</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>11</td>
+					<td>0667</td>
+					<td>陈浩</td>
+					<td>桥林到延寿路</td>
+					<td>14:13:13</td>
+					<td>2</td>
+					<td>2</td>
+					<td></td>
+					<td>14:15:40</td>
+					<td>45</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>12</td>
+					<td>0668</td>
+					<td>邹国祥</td>
+					<td>桥林到延寿路</td>
+					<td>14:54:15</td>
+					<td>0</td>
+					<td>36</td>
+					<td></td>
+					<td>15:30:22</td>
+					<td>75</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>13</td>
+					<td>0667</td>
+					<td>陈浩</td>
+					<td>桥林到延寿路</td>
+					<td>16:24:35</td>
+					<td>0</td>
+					<td>12</td>
+					<td></td>
+					<td>16:36:55</td>
+					<td>66</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>14</td>
+					<td>0666</td>
+					<td>王成</td>
+					<td>桥林到延寿路</td>
+					<td></td>
+					<td>0</td>
+					<td>12</td>
+					<td></td>
+					<td>17:00:22</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>0669</td>
+					<td>董乔金</td>
+					<td>桥林到延寿路</td>
+					<td>17:22:57</td>
+					<td>2</td>
+					<td>8</td>
+					<td></td>
+					<td>17:30:33</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>16</td>
+					<td>0668</td>
+					<td>邹国祥</td>
+					<td>桥林到延寿路</td>
+					<td>17:58:52</td>
+					<td>4</td>
+					<td>2</td>
+					<td>18:00:00</td>
+					<td>18:00:13</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

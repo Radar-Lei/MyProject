@@ -1,0 +1,1768 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 江南公交第二巴士公司 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：51路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：杨庄 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              <td>1</td>
+			              
+			              <td>2</td>
+			              
+			              <td>3</td>
+			              
+			              <td>4</td>
+			              
+			              <td>5</td>
+			              
+			              <td>6</td>
+			              
+			              <td>7</td>
+			              
+			              <td>8</td>
+			              
+			              <td>9</td>
+			              
+			              <td>10</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>6</td>
+			              
+			              <td>12</td>
+			              
+			              <td>11</td>
+			              
+			              <td>12</td>
+			              
+			              <td>12</td>
+			              
+			              <td>13</td>
+			              
+			              <td>14</td>
+			              
+			              <td>11</td>
+			              
+			              <td>9</td>
+			              
+			              <td>4</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>6</td>
+			              
+			              <td>10</td>
+			              
+			              <td>13</td>
+			              
+			              <td>9</td>
+			              
+			              <td>9</td>
+			              
+			              <td>14</td>
+			              
+			              <td>13</td>
+			              
+			              <td>8</td>
+			              
+			              <td>7</td>
+			              
+			              <td>3</td>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>104</td>
+			             </tr>
+			             <tr>
+			               <td>92</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>1</td>
+					<td>5416</td>
+					<td>30001136叶松林</td>
+					<td>51路上行</td>
+					<td>05:35:19</td>
+					<td>35</td>
+					<td>10</td>
+					<td>05:45:00</td>
+					<td>05:45:13</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>2</td>
+					<td>5424</td>
+					<td>30000750许才花</td>
+					<td>51路上行</td>
+					<td>05:49:38</td>
+					<td>29</td>
+					<td>7</td>
+					<td>05:56:00</td>
+					<td>05:56:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>3</td>
+					<td>5414</td>
+					<td>30022132徐义财</td>
+					<td>51路上行</td>
+					<td>06:04:00</td>
+					<td>27</td>
+					<td>2</td>
+					<td>06:05:00</td>
+					<td>06:06:09</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>4</td>
+					<td>5417</td>
+					<td>30010750王先金</td>
+					<td>51路上行</td>
+					<td>06:18:05</td>
+					<td>30</td>
+					<td>2</td>
+					<td>06:19:52</td>
+					<td>06:20:05</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>5</td>
+					<td>5383</td>
+					<td>30012301郝刚</td>
+					<td>51路上行</td>
+					<td>06:34:17</td>
+					<td>34</td>
+					<td>1</td>
+					<td>06:35:18</td>
+					<td>06:35:45</td>
+					<td>15</td>
+					<td>换5418</td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>6</td>
+					<td>5420</td>
+					<td>30013272张涛</td>
+					<td>51路上行</td>
+					<td>06:43:40</td>
+					<td>33</td>
+					<td>2</td>
+					<td>06:44:41</td>
+					<td>06:45:11</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>7</td>
+					<td>5423</td>
+					<td>30019553周兆根</td>
+					<td>51路上行</td>
+					<td>06:57:57</td>
+					<td>38</td>
+					<td>2</td>
+					<td>06:59:00</td>
+					<td>06:59:13</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>8</td>
+					<td>5421</td>
+					<td>30020685陈勇</td>
+					<td>51路上行</td>
+					<td>07:09:55</td>
+					<td>40</td>
+					<td>2</td>
+					<td>07:10:55</td>
+					<td>07:11:08</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>9</td>
+					<td>5570</td>
+					<td>30022133吴金权</td>
+					<td>51路上行</td>
+					<td>07:24:13</td>
+					<td>44</td>
+					<td>1</td>
+					<td>07:25:15</td>
+					<td>07:25:28</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>10</td>
+					<td>5424</td>
+					<td>30000750许才花</td>
+					<td>51路上行</td>
+					<td>07:35:39</td>
+					<td>45</td>
+					<td>2</td>
+					<td>07:36:00</td>
+					<td>07:37:50</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>11</td>
+					<td>5419</td>
+					<td>30012588范明</td>
+					<td>51路上行</td>
+					<td>07:43:06</td>
+					<td>42</td>
+					<td>1</td>
+					<td>07:44:05</td>
+					<td>07:44:35</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>12</td>
+					<td>5414</td>
+					<td>30022132徐义财</td>
+					<td>51路上行</td>
+					<td>07:59:11</td>
+					<td>49</td>
+					<td>2</td>
+					<td>08:00:17</td>
+					<td>08:01:38</td>
+					<td>17</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>13</td>
+					<td>5415</td>
+					<td>30018734陈庆</td>
+					<td>51路上行</td>
+					<td>08:15:45</td>
+					<td>56</td>
+					<td>2</td>
+					<td>08:16:47</td>
+					<td>08:17:51</td>
+					<td>16</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>14</td>
+					<td>5417</td>
+					<td>30010750王先金</td>
+					<td>51路上行</td>
+					<td></td>
+					<td>0</td>
+					<td>2</td>
+					<td>07:30:00</td>
+					<td>08:37:48</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>15</td>
+					<td>5555</td>
+					<td>30017440张浩</td>
+					<td>51路上行</td>
+					<td>08:41:42</td>
+					<td>61</td>
+					<td>5</td>
+					<td>08:42:43</td>
+					<td>08:46:05</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>16</td>
+					<td>5422</td>
+					<td>30019554王贵</td>
+					<td>51路上行</td>
+					<td>08:46:05</td>
+					<td>56</td>
+					<td>5</td>
+					<td>08:47:06</td>
+					<td>08:51:09</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>17</td>
+					<td>5420</td>
+					<td>30013272张涛</td>
+					<td>51路上行</td>
+					<td>08:55:18</td>
+					<td>55</td>
+					<td>1</td>
+					<td>08:56:20</td>
+					<td>08:56:33</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>18</td>
+					<td>5423</td>
+					<td>30019553周兆根</td>
+					<td>51路上行</td>
+					<td>09:09:27</td>
+					<td>59</td>
+					<td>1</td>
+					<td>09:10:29</td>
+					<td>09:10:57</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>19</td>
+					<td>5418</td>
+					<td>30012301郝刚</td>
+					<td>51路上行</td>
+					<td></td>
+					<td>0</td>
+					<td>1</td>
+					<td>08:20:00</td>
+					<td>09:12:29</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>20</td>
+					<td>5421</td>
+					<td>30020685陈勇</td>
+					<td>51路上行</td>
+					<td>09:18:50</td>
+					<td>49</td>
+					<td>3</td>
+					<td>09:22:04</td>
+					<td>09:21:24</td>
+					<td>9</td>
+					<td>信号有误</td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>21</td>
+					<td>5570</td>
+					<td>30022133吴金权</td>
+					<td>51路上行</td>
+					<td>09:37:45</td>
+					<td>58</td>
+					<td>2</td>
+					<td>09:38:46</td>
+					<td>09:39:15</td>
+					<td>18</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>22</td>
+					<td>5413</td>
+					<td>30016994王刚</td>
+					<td>51路上行</td>
+					<td>09:37:46</td>
+					<td>48</td>
+					<td>4</td>
+					<td>09:40:47</td>
+					<td>09:41:00</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>23</td>
+					<td>5424</td>
+					<td>30000750许才花</td>
+					<td>51路上行</td>
+					<td>09:42:36</td>
+					<td>46</td>
+					<td>1</td>
+					<td>09:42:48</td>
+					<td>09:43:09</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>24</td>
+					<td>5419</td>
+					<td>30012588范明</td>
+					<td>51路上行</td>
+					<td>09:45:06</td>
+					<td>41</td>
+					<td>1</td>
+					<td>09:46:06</td>
+					<td>09:46:19</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>25</td>
+					<td>5416</td>
+					<td>30001136叶松林</td>
+					<td>51路上行</td>
+					<td>09:54:23</td>
+					<td>42</td>
+					<td>1</td>
+					<td>09:55:37</td>
+					<td>09:55:53</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>26</td>
+					<td>5414</td>
+					<td>30022132徐义财</td>
+					<td>51路上行</td>
+					<td>10:05:58</td>
+					<td>45</td>
+					<td>2</td>
+					<td>10:07:00</td>
+					<td>10:07:33</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>27</td>
+					<td>5415</td>
+					<td>30018734陈庆</td>
+					<td>51路上行</td>
+					<td>10:20:05</td>
+					<td>50</td>
+					<td>1</td>
+					<td>10:21:19</td>
+					<td>10:21:32</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>28</td>
+					<td>5417</td>
+					<td>30010750王先金</td>
+					<td>51路上行</td>
+					<td>10:31:56</td>
+					<td>51</td>
+					<td>2</td>
+					<td>10:33:40</td>
+					<td>10:33:59</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>29</td>
+					<td>5555</td>
+					<td>30017440张浩</td>
+					<td>51路上行</td>
+					<td>10:36:20</td>
+					<td>46</td>
+					<td>1</td>
+					<td>10:37:23</td>
+					<td>10:37:40</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>30</td>
+					<td>5422</td>
+					<td>30019554王贵</td>
+					<td>51路上行</td>
+					<td>10:40:59</td>
+					<td>42</td>
+					<td>2</td>
+					<td>10:42:24</td>
+					<td>10:42:37</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>31</td>
+					<td>5420</td>
+					<td>30013272张涛</td>
+					<td>51路上行</td>
+					<td>10:55:09</td>
+					<td>47</td>
+					<td>2</td>
+					<td>10:56:11</td>
+					<td>10:57:03</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>32</td>
+					<td>5423</td>
+					<td>30019553周兆根</td>
+					<td>51路上行</td>
+					<td>11:06:51</td>
+					<td>49</td>
+					<td>2</td>
+					<td>11:08:01</td>
+					<td>11:08:27</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>33</td>
+					<td>5418</td>
+					<td>30012301郝刚</td>
+					<td>51路上行</td>
+					<td>11:09:19</td>
+					<td>41</td>
+					<td>1</td>
+					<td>11:10:02</td>
+					<td>11:10:41</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>34</td>
+					<td>5421</td>
+					<td>30020685陈勇</td>
+					<td>51路上行</td>
+					<td>11:18:52</td>
+					<td>41</td>
+					<td>2</td>
+					<td>11:19:54</td>
+					<td>11:20:24</td>
+					<td>10</td>
+					<td>分停</td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>35</td>
+					<td>5424</td>
+					<td>30000750许才花</td>
+					<td>51路上行</td>
+					<td>11:35:12</td>
+					<td>47</td>
+					<td>1</td>
+					<td>11:36:14</td>
+					<td>11:36:27</td>
+					<td>16</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>36</td>
+					<td>5413</td>
+					<td>30016994王刚</td>
+					<td>51路上行</td>
+					<td>11:39:44</td>
+					<td>42</td>
+					<td>2</td>
+					<td>11:40:47</td>
+					<td>11:41:02</td>
+					<td>5</td>
+					<td>分停</td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>37</td>
+					<td>5415</td>
+					<td>30018734陈庆</td>
+					<td>51路上行</td>
+					<td>11:54:06</td>
+					<td>40</td>
+					<td>2</td>
+					<td>11:55:08</td>
+					<td>11:56:00</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>38</td>
+					<td>5417</td>
+					<td>30010750王先金</td>
+					<td>51路上行</td>
+					<td>12:12:41</td>
+					<td>42</td>
+					<td>2</td>
+					<td>12:13:43</td>
+					<td>12:14:08</td>
+					<td>18</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>39</td>
+					<td>5416</td>
+					<td>30014527顾光跃</td>
+					<td>51路上行</td>
+					<td>12:22:30</td>
+					<td>42</td>
+					<td>2</td>
+					<td>12:23:32</td>
+					<td>12:24:11</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>40</td>
+					<td>5422</td>
+					<td>30019554王贵</td>
+					<td>51路上行</td>
+					<td>12:36:21</td>
+					<td>46</td>
+					<td>1</td>
+					<td>12:37:22</td>
+					<td>12:37:55</td>
+					<td>13</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>41</td>
+					<td>5420</td>
+					<td>30013272张涛</td>
+					<td>51路上行</td>
+					<td>12:45:36</td>
+					<td>43</td>
+					<td>2</td>
+					<td>12:46:38</td>
+					<td>12:47:03</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>42</td>
+					<td>5406</td>
+					<td>30019239庞清</td>
+					<td>51路上行</td>
+					<td>12:52:54</td>
+					<td>43</td>
+					<td>2</td>
+					<td>12:53:56</td>
+					<td>12:54:11</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>43</td>
+					<td>5423</td>
+					<td>30019553周兆根</td>
+					<td>51路上行</td>
+					<td>13:00:01</td>
+					<td>43</td>
+					<td>1</td>
+					<td>13:01:04</td>
+					<td>13:01:42</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>44</td>
+					<td>5419</td>
+					<td>30012588范明</td>
+					<td>51路上行</td>
+					<td>13:14:12</td>
+					<td>46</td>
+					<td>1</td>
+					<td>13:15:12</td>
+					<td>13:15:51</td>
+					<td>14</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>45</td>
+					<td>5424</td>
+					<td>30016276朱明喜</td>
+					<td>51路上行</td>
+					<td>13:23:10</td>
+					<td>43</td>
+					<td>3</td>
+					<td>13:26:00</td>
+					<td>13:26:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>46</td>
+					<td>5415</td>
+					<td>30018734陈庆</td>
+					<td>51路上行</td>
+					<td>13:47:02</td>
+					<td>45</td>
+					<td>1</td>
+					<td>13:48:00</td>
+					<td>13:48:48</td>
+					<td>22</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>47</td>
+					<td>5421</td>
+					<td>30020685陈勇</td>
+					<td>51路上行</td>
+					<td>13:56:30</td>
+					<td>42</td>
+					<td>4</td>
+					<td>13:59:00</td>
+					<td>14:00:00</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>48</td>
+					<td>5418</td>
+					<td>30016423丁义松</td>
+					<td>51路上行</td>
+					<td>14:07:53</td>
+					<td>46</td>
+					<td>2</td>
+					<td>14:09:00</td>
+					<td>14:09:32</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>49</td>
+					<td>5416</td>
+					<td>30014527顾光跃</td>
+					<td>51路上行</td>
+					<td>14:08:12</td>
+					<td>40</td>
+					<td>4</td>
+					<td>14:12:00</td>
+					<td>14:12:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>50</td>
+					<td>5414</td>
+					<td>30026982王超</td>
+					<td>51路上行</td>
+					<td>14:12:44</td>
+					<td>39</td>
+					<td>2</td>
+					<td>14:14:00</td>
+					<td>14:14:13</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>51</td>
+					<td>5422</td>
+					<td>30019554王贵</td>
+					<td>51路上行</td>
+					<td>14:24:41</td>
+					<td>44</td>
+					<td>2</td>
+					<td>14:26:00</td>
+					<td>14:26:16</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>52</td>
+					<td>5570</td>
+					<td>30022133吴金权</td>
+					<td>51路上行</td>
+					<td>14:27:07</td>
+					<td>42</td>
+					<td>1</td>
+					<td>14:28:00</td>
+					<td>14:28:13</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>53</td>
+					<td>5420</td>
+					<td>30001155薛峰</td>
+					<td>51路上行</td>
+					<td>14:33:42</td>
+					<td>43</td>
+					<td>2</td>
+					<td>14:35:00</td>
+					<td>14:35:14</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>54</td>
+					<td>5423</td>
+					<td>30019564夏福洲</td>
+					<td>51路上行</td>
+					<td>14:33:52</td>
+					<td>39</td>
+					<td>5</td>
+					<td>14:38:00</td>
+					<td>14:38:22</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>55</td>
+					<td>5406</td>
+					<td>30019239庞清</td>
+					<td>51路上行</td>
+					<td>14:36:23</td>
+					<td>36</td>
+					<td>5</td>
+					<td>14:41:00</td>
+					<td>14:41:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>56</td>
+					<td>5555</td>
+					<td>30017440张浩</td>
+					<td>51路上行</td>
+					<td>14:50:04</td>
+					<td>43</td>
+					<td>2</td>
+					<td>14:52:00</td>
+					<td>14:52:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>57</td>
+					<td>5417</td>
+					<td>30021359孙静钟</td>
+					<td>51路上行</td>
+					<td>14:52:40</td>
+					<td>38</td>
+					<td>3</td>
+					<td>14:55:00</td>
+					<td>14:55:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>58</td>
+					<td>5413</td>
+					<td>30016994王刚</td>
+					<td>51路上行</td>
+					<td>15:04:42</td>
+					<td>42</td>
+					<td>2</td>
+					<td>15:06:00</td>
+					<td>15:06:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>59</td>
+					<td>5424</td>
+					<td>30016276朱明喜</td>
+					<td>51路上行</td>
+					<td>15:13:54</td>
+					<td>44</td>
+					<td>2</td>
+					<td>15:15:00</td>
+					<td>15:15:56</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>60</td>
+					<td>5383</td>
+					<td>30011116范宏伟</td>
+					<td>51路上行</td>
+					<td>15:25:58</td>
+					<td>44</td>
+					<td>2</td>
+					<td>15:27:00</td>
+					<td>15:27:49</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>61</td>
+					<td>5416</td>
+					<td>30014527顾光跃</td>
+					<td>51路上行</td>
+					<td>15:39:38</td>
+					<td>42</td>
+					<td>1</td>
+					<td>15:40:00</td>
+					<td>15:40:19</td>
+					<td>13</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>62</td>
+					<td>5418</td>
+					<td>30016423丁义松</td>
+					<td>51路上行</td>
+					<td>15:48:58</td>
+					<td>45</td>
+					<td>1</td>
+					<td>15:49:00</td>
+					<td>15:49:49</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>63</td>
+					<td>5415</td>
+					<td>30000965赵正旺</td>
+					<td>51路上行</td>
+					<td>15:53:43</td>
+					<td>43</td>
+					<td>1</td>
+					<td>15:54:00</td>
+					<td>15:54:38</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>64</td>
+					<td>5414</td>
+					<td>30026982王超</td>
+					<td>51路上行</td>
+					<td>15:58:12</td>
+					<td>43</td>
+					<td>1</td>
+					<td>15:59:00</td>
+					<td>15:59:25</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>65</td>
+					<td>5570</td>
+					<td>30022133吴金权</td>
+					<td>51路上行</td>
+					<td>16:05:28</td>
+					<td>45</td>
+					<td>1</td>
+					<td>16:06:00</td>
+					<td>16:06:23</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>66</td>
+					<td>5422</td>
+					<td>30016415李云华</td>
+					<td>51路上行</td>
+					<td>16:10:04</td>
+					<td>45</td>
+					<td>2</td>
+					<td>16:12:00</td>
+					<td>16:12:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>67</td>
+					<td>5420</td>
+					<td>30001155薛峰</td>
+					<td>51路上行</td>
+					<td>16:15:01</td>
+					<td>45</td>
+					<td>1</td>
+					<td>16:16:00</td>
+					<td>16:16:20</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>68</td>
+					<td>5423</td>
+					<td>30019564夏福洲</td>
+					<td>51路上行</td>
+					<td>16:15:12</td>
+					<td>39</td>
+					<td>4</td>
+					<td>16:19:00</td>
+					<td>16:19:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>69</td>
+					<td>5406</td>
+					<td>30019239庞清</td>
+					<td>51路上行</td>
+					<td>16:27:09</td>
+					<td>43</td>
+					<td>2</td>
+					<td>16:29:00</td>
+					<td>16:29:14</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>70</td>
+					<td>5421</td>
+					<td>30020685陈勇</td>
+					<td>51路上行</td>
+					<td>16:38:28</td>
+					<td>46</td>
+					<td>2</td>
+					<td>16:40:00</td>
+					<td>16:40:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>71</td>
+					<td>5417</td>
+					<td>30021359孙静钟</td>
+					<td>51路上行</td>
+					<td>16:50:26</td>
+					<td>50</td>
+					<td>2</td>
+					<td>16:52:00</td>
+					<td>16:52:59</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>72</td>
+					<td>5555</td>
+					<td>30017440张浩</td>
+					<td>51路上行</td>
+					<td>17:01:52</td>
+					<td>54</td>
+					<td>2</td>
+					<td>17:03:00</td>
+					<td>17:03:34</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>73</td>
+					<td>5424</td>
+					<td>30016276朱明喜</td>
+					<td>51路上行</td>
+					<td>17:15:50</td>
+					<td>60</td>
+					<td>1</td>
+					<td>17:16:00</td>
+					<td>17:16:50</td>
+					<td>13</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>74</td>
+					<td>5413</td>
+					<td>30016994王刚</td>
+					<td>51路上行</td>
+					<td>17:20:43</td>
+					<td>54</td>
+					<td>3</td>
+					<td>17:23:00</td>
+					<td>17:23:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td>0</td>
+					<td>75</td>
+					<td>5383</td>
+					<td>30011116范宏伟</td>
+					<td>51路上行</td>
+					<td>17:35:04</td>
+					<td>59</td>
+					<td>3</td>
+					<td>17:37:00</td>
+					<td>17:38:25</td>
+					<td>15</td>
+					<td>塌等牌</td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>76</td>
+					<td>5415</td>
+					<td>30000965赵正旺</td>
+					<td>51路上行</td>
+					<td>17:46:39</td>
+					<td>58</td>
+					<td>1</td>
+					<td>17:47:00</td>
+					<td>17:47:25</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>77</td>
+					<td>5418</td>
+					<td>30016423丁义松</td>
+					<td>51路上行</td>
+					<td>17:58:34</td>
+					<td>58</td>
+					<td>2</td>
+					<td>18:00:00</td>
+					<td>18:00:59</td>
+					<td>13</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>78</td>
+					<td>5422</td>
+					<td>30016415李云华</td>
+					<td>51路上行</td>
+					<td>18:28:43</td>
+					<td>65</td>
+					<td>2</td>
+					<td>18:29:49</td>
+					<td>18:30:42</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>79</td>
+					<td>5414</td>
+					<td>30026982王超</td>
+					<td>51路上行</td>
+					<td>18:28:42</td>
+					<td>76</td>
+					<td>4</td>
+					<td>18:31:49</td>
+					<td>18:32:02</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>80</td>
+					<td>5420</td>
+					<td>30001155薛峰</td>
+					<td>51路上行</td>
+					<td>18:45:12</td>
+					<td>69</td>
+					<td>2</td>
+					<td>18:47:00</td>
+					<td>18:47:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>81</td>
+					<td>5423</td>
+					<td>30019564夏福洲</td>
+					<td>51路上行</td>
+					<td>19:01:38</td>
+					<td>71</td>
+					<td>3</td>
+					<td>19:04:00</td>
+					<td>19:04:14</td>
+					<td>17</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>82</td>
+					<td>5406</td>
+					<td>30019239庞清</td>
+					<td>51路上行</td>
+					<td>19:15:43</td>
+					<td>69</td>
+					<td>1</td>
+					<td>19:16:00</td>
+					<td>19:16:34</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>83</td>
+					<td>5417</td>
+					<td>30021359孙静钟</td>
+					<td>51路上行</td>
+					<td>19:20:36</td>
+					<td>54</td>
+					<td>1</td>
+					<td>19:21:00</td>
+					<td>19:21:29</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>84</td>
+					<td>5424</td>
+					<td>30016276朱明喜</td>
+					<td>51路上行</td>
+					<td>19:39:30</td>
+					<td>51</td>
+					<td>2</td>
+					<td>19:41:00</td>
+					<td>19:41:13</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>85</td>
+					<td>5415</td>
+					<td>30000965赵正旺</td>
+					<td>51路上行</td>
+					<td>20:05:07</td>
+					<td>50</td>
+					<td>1</td>
+					<td>20:06:00</td>
+					<td>20:06:46</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>86</td>
+					<td>5418</td>
+					<td>30016423丁义松</td>
+					<td>51路上行</td>
+					<td>20:09:42</td>
+					<td>44</td>
+					<td>2</td>
+					<td>20:11:00</td>
+					<td>20:11:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>87</td>
+					<td>5422</td>
+					<td>30016415李云华</td>
+					<td>51路上行</td>
+					<td>20:09:59</td>
+					<td>40</td>
+					<td>6</td>
+					<td>20:15:00</td>
+					<td>20:15:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>88</td>
+					<td>5414</td>
+					<td>30026982王超</td>
+					<td>51路上行</td>
+					<td>20:30:52</td>
+					<td>46</td>
+					<td>2</td>
+					<td>20:32:00</td>
+					<td>20:32:25</td>
+					<td>17</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>89</td>
+					<td>5420</td>
+					<td>30001155薛峰</td>
+					<td>51路上行</td>
+					<td>20:47:24</td>
+					<td>42</td>
+					<td>7</td>
+					<td>20:54:00</td>
+					<td>20:54:16</td>
+					<td>22</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>90</td>
+					<td>5417</td>
+					<td>30021359孙静钟</td>
+					<td>51路上行</td>
+					<td>21:13:28</td>
+					<td>45</td>
+					<td>5</td>
+					<td>21:18:00</td>
+					<td>21:18:13</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>91</td>
+					<td>5383</td>
+					<td>30011116范宏伟</td>
+					<td>51路上行</td>
+					<td>21:39:00</td>
+					<td>45</td>
+					<td>2</td>
+					<td>21:41:00</td>
+					<td>21:41:16</td>
+					<td>23</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>92</td>
+					<td>5422</td>
+					<td>30016415李云华</td>
+					<td>51路上行</td>
+					<td>21:57:56</td>
+					<td>38</td>
+					<td>8</td>
+					<td>22:05:00</td>
+					<td>22:05:13</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

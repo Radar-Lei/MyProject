@@ -1,0 +1,654 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 浦口公司七车队 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：407路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：乌江客运站 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>1</td>
+					<td>0650</td>
+					<td>许大亮</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:00:00</td>
+					<td>06:00:38</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>2</td>
+					<td>0670</td>
+					<td>赵瑞龙</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:20:00</td>
+					<td>06:20:29</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>3</td>
+					<td>0652</td>
+					<td>张书同</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:40:00</td>
+					<td>06:42:05</td>
+					<td>22</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>4</td>
+					<td>0656</td>
+					<td>袁家文</td>
+					<td>桥乌线下行</td>
+					<td>06:31:58</td>
+					<td>30</td>
+					<td>30</td>
+					<td>07:00:00</td>
+					<td>07:01:01</td>
+					<td>19</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>5</td>
+					<td>0655</td>
+					<td>姜德超</td>
+					<td>桥乌线下行</td>
+					<td>06:55:37</td>
+					<td>33</td>
+					<td>25</td>
+					<td>07:20:00</td>
+					<td>07:20:13</td>
+					<td>19</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>6</td>
+					<td>0686</td>
+					<td>吴本龙</td>
+					<td>桥乌线下行</td>
+					<td>07:13:21</td>
+					<td>31</td>
+					<td>27</td>
+					<td>07:40:00</td>
+					<td>07:40:36</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>7</td>
+					<td>0650</td>
+					<td>许大亮</td>
+					<td>桥乌线下行</td>
+					<td>07:29:51</td>
+					<td>29</td>
+					<td>36</td>
+					<td>08:05:00</td>
+					<td>08:05:16</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>8</td>
+					<td>0652</td>
+					<td>张书同</td>
+					<td>桥乌线下行</td>
+					<td>08:23:08</td>
+					<td>33</td>
+					<td>8</td>
+					<td>08:30:00</td>
+					<td>08:31:30</td>
+					<td>26</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>9</td>
+					<td>0670</td>
+					<td>赵瑞龙</td>
+					<td>桥乌线下行</td>
+					<td>08:05:23</td>
+					<td>38</td>
+					<td>50</td>
+					<td>08:55:00</td>
+					<td>08:55:16</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td>3</td>
+					<td>0</td>
+					<td>0656</td>
+					<td>袁家文</td>
+					<td>桥乌线下行</td>
+					<td>08:53:32</td>
+					<td>33</td>
+					<td>27</td>
+					<td></td>
+					<td>09:20:45</td>
+					<td>25</td>
+					<td>1</td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>10</td>
+					<td>0655</td>
+					<td>姜德超</td>
+					<td>桥乌线下行</td>
+					<td>09:14:22</td>
+					<td>31</td>
+					<td>31</td>
+					<td>09:45:00</td>
+					<td>09:45:13</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>11</td>
+					<td>0686</td>
+					<td>吴本龙</td>
+					<td>桥乌线下行</td>
+					<td>09:38:21</td>
+					<td>28</td>
+					<td>32</td>
+					<td>10:10:00</td>
+					<td>10:10:56</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>12</td>
+					<td>0670</td>
+					<td>赵瑞龙</td>
+					<td>桥乌线下行</td>
+					<td>10:26:50</td>
+					<td>30</td>
+					<td>25</td>
+					<td>10:50:00</td>
+					<td>10:51:39</td>
+					<td>41</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>14</td>
+					<td>0650</td>
+					<td>许大亮</td>
+					<td>乌江到五一停车场</td>
+					<td></td>
+					<td>0</td>
+					<td>25</td>
+					<td>12:05:00</td>
+					<td>12:06:07</td>
+					<td>75</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td>4</td>
+					<td>0</td>
+					<td>0655</td>
+					<td>姜德超</td>
+					<td>兴桥家园到桥林</td>
+					<td>12:22:15</td>
+					<td>5</td>
+					<td>8</td>
+					<td></td>
+					<td>12:30:17</td>
+					<td>24</td>
+					<td>1</td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>0652</td>
+					<td>张书同</td>
+					<td>桥乌线下行</td>
+					<td>10:47:48</td>
+					<td>27</td>
+					<td>105</td>
+					<td>12:30:00</td>
+					<td>12:32:13</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>16</td>
+					<td>0656</td>
+					<td>袁家文</td>
+					<td>桥乌线下行</td>
+					<td>12:30:31</td>
+					<td>28</td>
+					<td>25</td>
+					<td>12:55:00</td>
+					<td>12:55:25</td>
+					<td>23</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>17</td>
+					<td>0686</td>
+					<td>吴本龙</td>
+					<td>桥乌线下行</td>
+					<td>12:59:32</td>
+					<td>29</td>
+					<td>21</td>
+					<td>13:20:00</td>
+					<td>13:20:40</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>18</td>
+					<td>0650</td>
+					<td>许大亮</td>
+					<td>桥乌线下行</td>
+					<td>13:27:08</td>
+					<td>27</td>
+					<td>19</td>
+					<td>13:45:00</td>
+					<td>13:46:15</td>
+					<td>26</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>19</td>
+					<td>0670</td>
+					<td>赵瑞龙</td>
+					<td>桥乌线下行</td>
+					<td>12:07:52</td>
+					<td>31</td>
+					<td>123</td>
+					<td>14:10:00</td>
+					<td>14:10:37</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>20</td>
+					<td>0652</td>
+					<td>张书同</td>
+					<td>桥乌线下行</td>
+					<td>13:53:50</td>
+					<td>25</td>
+					<td>42</td>
+					<td>14:35:00</td>
+					<td>14:35:39</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>21</td>
+					<td>0656</td>
+					<td>袁家文</td>
+					<td>桥乌线下行</td>
+					<td>14:20:25</td>
+					<td>35</td>
+					<td>45</td>
+					<td>15:05:00</td>
+					<td>15:05:30</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>22</td>
+					<td>0655</td>
+					<td>姜德超</td>
+					<td>桥乌线下行</td>
+					<td>14:47:31</td>
+					<td>32</td>
+					<td>39</td>
+					<td>15:25:00</td>
+					<td>15:26:21</td>
+					<td>21</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>23</td>
+					<td>0686</td>
+					<td>吴本龙</td>
+					<td>桥乌线下行</td>
+					<td>15:08:46</td>
+					<td>28</td>
+					<td>43</td>
+					<td>15:50:00</td>
+					<td>15:51:00</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>24</td>
+					<td>0650</td>
+					<td>许大亮</td>
+					<td>桥乌线下行</td>
+					<td>15:33:37</td>
+					<td>28</td>
+					<td>42</td>
+					<td>16:15:00</td>
+					<td>16:15:28</td>
+					<td>24</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>25</td>
+					<td>0670</td>
+					<td>赵瑞龙</td>
+					<td>桥乌线下行</td>
+					<td>15:57:50</td>
+					<td>26</td>
+					<td>38</td>
+					<td>16:35:00</td>
+					<td>16:35:28</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>26</td>
+					<td>0652</td>
+					<td>张书同</td>
+					<td>桥乌线下行</td>
+					<td>16:25:10</td>
+					<td>28</td>
+					<td>35</td>
+					<td>17:00:00</td>
+					<td>17:00:20</td>
+					<td>25</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>27</td>
+					<td>0656</td>
+					<td>袁家文</td>
+					<td>桥乌线下行</td>
+					<td>17:00:52</td>
+					<td>40</td>
+					<td>20</td>
+					<td>17:20:00</td>
+					<td>17:20:31</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>28</td>
+					<td>0655</td>
+					<td>姜德超</td>
+					<td>桥乌线下行</td>
+					<td>17:20:54</td>
+					<td>34</td>
+					<td>20</td>
+					<td>17:40:00</td>
+					<td>17:40:48</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td>29</td>
+					<td>0686</td>
+					<td>吴本龙</td>
+					<td>桥乌线下行</td>
+					<td>17:40:12</td>
+					<td>33</td>
+					<td>20</td>
+					<td>18:00:00</td>
+					<td>18:00:58</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

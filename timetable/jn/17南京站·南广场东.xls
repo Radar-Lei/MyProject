@@ -1,0 +1,2992 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 江南公交第二巴士公司 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：17路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：南京站·南广场东 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              <td>1</td>
+			              
+			              <td>2</td>
+			              
+			              <td>3</td>
+			              
+			              <td>4</td>
+			              
+			              <td>5</td>
+			              
+			              <td>6</td>
+			              
+			              <td>7</td>
+			              
+			              <td>8</td>
+			              
+			              <td>9</td>
+			              
+			              <td>10</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>7</td>
+			              
+			              <td>20</td>
+			              
+			              <td>17</td>
+			              
+			              <td>18</td>
+			              
+			              <td>17</td>
+			              
+			              <td>15</td>
+			              
+			              <td>24</td>
+			              
+			              <td>20</td>
+			              
+			              <td>14</td>
+			              
+			              <td>8</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>8</td>
+			              
+			              <td>24</td>
+			              
+			              <td>24</td>
+			              
+			              <td>18</td>
+			              
+			              <td>13</td>
+			              
+			              <td>14</td>
+			              
+			              <td>24</td>
+			              
+			              <td>19</td>
+			              
+			              <td>14</td>
+			              
+			              <td>6</td>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>160</td>
+			             </tr>
+			             <tr>
+			               <td>164</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td>1</td>
+					<td>◇1</td>
+					<td>1</td>
+					<td>9002</td>
+					<td>30020475胡海燕</td>
+					<td>杨庄到南京站</td>
+					<td>04:49:41</td>
+					<td>1</td>
+					<td>11</td>
+					<td>05:00:00</td>
+					<td>05:00:24</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>2</td>
+					<td>9001</td>
+					<td>30020515张国伟</td>
+					<td>杨庄到南京站</td>
+					<td>04:27:31</td>
+					<td>30</td>
+					<td>54</td>
+					<td>05:13:00</td>
+					<td>05:21:36</td>
+					<td>21</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>3</td>
+					<td>9012</td>
+					<td>30020513宫涛</td>
+					<td>杨庄到南京站</td>
+					<td>05:19:02</td>
+					<td>30</td>
+					<td>7</td>
+					<td>05:26:00</td>
+					<td>05:26:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>4</td>
+					<td>9004</td>
+					<td>30020450朱慧</td>
+					<td>上行</td>
+					<td>05:30:51</td>
+					<td>31</td>
+					<td>6</td>
+					<td>05:36:00</td>
+					<td>05:36:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>5</td>
+					<td>9006</td>
+					<td>30020484崔剑</td>
+					<td>上行</td>
+					<td>05:45:25</td>
+					<td>35</td>
+					<td>2</td>
+					<td>05:47:00</td>
+					<td>05:47:16</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>6</td>
+					<td>9018</td>
+					<td>30020452吉玉海</td>
+					<td>上行</td>
+					<td>05:54:21</td>
+					<td>34</td>
+					<td>2</td>
+					<td>05:56:00</td>
+					<td>05:56:26</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>7</td>
+					<td>9013</td>
+					<td>30020612王欣鑫</td>
+					<td>上行</td>
+					<td>06:00:29</td>
+					<td>31</td>
+					<td>6</td>
+					<td>06:06:00</td>
+					<td>06:06:18</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>8</td>
+					<td>9002</td>
+					<td>30020475胡海燕</td>
+					<td>上行</td>
+					<td>06:09:42</td>
+					<td>33</td>
+					<td>7</td>
+					<td>06:16:00</td>
+					<td>06:16:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>9</td>
+					<td>9010</td>
+					<td>30020540叶玉</td>
+					<td>上行</td>
+					<td>06:23:13</td>
+					<td>40</td>
+					<td>2</td>
+					<td>06:25:00</td>
+					<td>06:25:14</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>10</td>
+					<td>9001</td>
+					<td>30020515张国伟</td>
+					<td>上行</td>
+					<td>06:23:30</td>
+					<td>32</td>
+					<td>8</td>
+					<td>06:31:00</td>
+					<td>06:31:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>11</td>
+					<td>9008</td>
+					<td>30021866李尚成</td>
+					<td>上行</td>
+					<td>06:35:25</td>
+					<td>39</td>
+					<td>2</td>
+					<td>06:37:00</td>
+					<td>06:37:52</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>12</td>
+					<td>9012</td>
+					<td>30020513宫涛</td>
+					<td>上行</td>
+					<td>06:41:23</td>
+					<td>39</td>
+					<td>3</td>
+					<td>06:44:00</td>
+					<td>06:44:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>13</td>
+					<td>9005</td>
+					<td>30020627魏巍</td>
+					<td>上行</td>
+					<td>06:46:50</td>
+					<td>36</td>
+					<td>3</td>
+					<td>06:49:00</td>
+					<td>06:49:21</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>14</td>
+					<td>4998</td>
+					<td>30020541吴会君</td>
+					<td>上行</td>
+					<td>06:47:24</td>
+					<td>40</td>
+					<td>6</td>
+					<td>06:53:00</td>
+					<td>06:53:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>15</td>
+					<td>9004</td>
+					<td>30020450朱慧</td>
+					<td>上行</td>
+					<td>06:51:46</td>
+					<td>37</td>
+					<td>7</td>
+					<td>06:58:00</td>
+					<td>06:58:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>16</td>
+					<td>9019</td>
+					<td>30020595李春盛</td>
+					<td>上行</td>
+					<td>07:00:23</td>
+					<td>41</td>
+					<td>2</td>
+					<td>07:02:00</td>
+					<td>07:02:15</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>17</td>
+					<td>9447</td>
+					<td>30020451毛广军</td>
+					<td>上行</td>
+					<td>07:02:45</td>
+					<td>39</td>
+					<td>4</td>
+					<td>07:06:00</td>
+					<td>07:06:21</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>18</td>
+					<td>9016</td>
+					<td>30020616赵光敏</td>
+					<td>上行</td>
+					<td>07:07:39</td>
+					<td>40</td>
+					<td>3</td>
+					<td>07:10:00</td>
+					<td>07:10:46</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>19</td>
+					<td>9009</td>
+					<td>30020481陈萍</td>
+					<td>上行</td>
+					<td>07:13:56</td>
+					<td>43</td>
+					<td>3</td>
+					<td>07:16:00</td>
+					<td>07:16:20</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>20</td>
+					<td>9007</td>
+					<td>30020465程玉青</td>
+					<td>上行</td>
+					<td>07:21:12</td>
+					<td>46</td>
+					<td>2</td>
+					<td>07:23:00</td>
+					<td>07:23:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>21</td>
+					<td>9435</td>
+					<td>30020565谢安东</td>
+					<td>上行</td>
+					<td>07:21:24</td>
+					<td>42</td>
+					<td>6</td>
+					<td>07:27:00</td>
+					<td>07:27:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>22</td>
+					<td>9006</td>
+					<td>30020484崔剑</td>
+					<td>上行</td>
+					<td>07:29:11</td>
+					<td>46</td>
+					<td>2</td>
+					<td>07:31:00</td>
+					<td>07:31:20</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>23</td>
+					<td>9003</td>
+					<td>31022659吴彬</td>
+					<td>上行</td>
+					<td>07:33:14</td>
+					<td>46</td>
+					<td>3</td>
+					<td>07:36:00</td>
+					<td>07:36:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>24</td>
+					<td>9011</td>
+					<td>30020471陶红梅</td>
+					<td>上行</td>
+					<td>07:45:47</td>
+					<td>51</td>
+					<td>2</td>
+					<td>07:46:00</td>
+					<td>07:47:16</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>25</td>
+					<td>9431</td>
+					<td>30120469阎亮</td>
+					<td>上行</td>
+					<td>07:47:58</td>
+					<td>48</td>
+					<td>4</td>
+					<td>07:51:00</td>
+					<td>07:51:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>26</td>
+					<td>9013</td>
+					<td>30020612王欣鑫</td>
+					<td>上行</td>
+					<td>07:53:03</td>
+					<td>44</td>
+					<td>2</td>
+					<td>07:55:00</td>
+					<td>07:55:16</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>27</td>
+					<td>9432</td>
+					<td>30120473宗浩文</td>
+					<td>上行</td>
+					<td>07:58:20</td>
+					<td>54</td>
+					<td>3</td>
+					<td>08:01:00</td>
+					<td>08:01:22</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>28</td>
+					<td>9015</td>
+					<td>30020446顾文忠</td>
+					<td>上行</td>
+					<td>08:00:44</td>
+					<td>46</td>
+					<td>7</td>
+					<td>08:07:00</td>
+					<td>08:07:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>29</td>
+					<td>9018</td>
+					<td>30020452吉玉海</td>
+					<td>上行</td>
+					<td>07:38:33</td>
+					<td>47</td>
+					<td>36</td>
+					<td>07:41:00</td>
+					<td>08:14:45</td>
+					<td>7</td>
+					<td>一保</td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>30</td>
+					<td>9428</td>
+					<td>30020563杨玮</td>
+					<td>上行</td>
+					<td>08:12:13</td>
+					<td>53</td>
+					<td>4</td>
+					<td>08:16:00</td>
+					<td>08:16:46</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>31</td>
+					<td>9010</td>
+					<td>30020540叶玉</td>
+					<td>上行</td>
+					<td>08:19:59</td>
+					<td>56</td>
+					<td>2</td>
+					<td>08:21:00</td>
+					<td>08:21:37</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>32</td>
+					<td>9014</td>
+					<td>30020603汪俊</td>
+					<td>上行</td>
+					<td>08:24:14</td>
+					<td>55</td>
+					<td>2</td>
+					<td>08:26:00</td>
+					<td>08:26:30</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>33</td>
+					<td>9429</td>
+					<td>30026755倪飞</td>
+					<td>上行</td>
+					<td>08:33:34</td>
+					<td>59</td>
+					<td>2</td>
+					<td>08:35:00</td>
+					<td>08:35:20</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>34</td>
+					<td>9008</td>
+					<td>30021866李尚成</td>
+					<td>上行</td>
+					<td>08:35:58</td>
+					<td>57</td>
+					<td>5</td>
+					<td>08:40:00</td>
+					<td>08:40:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>35</td>
+					<td>9012</td>
+					<td>30020513宫涛</td>
+					<td>上行</td>
+					<td>08:43:21</td>
+					<td>53</td>
+					<td>6</td>
+					<td>08:49:00</td>
+					<td>08:49:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>36</td>
+					<td>9436</td>
+					<td>30020577吴茂娟</td>
+					<td>上行</td>
+					<td>08:41:19</td>
+					<td>54</td>
+					<td>10</td>
+					<td>08:45:00</td>
+					<td>08:51:17</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>37</td>
+					<td>9005</td>
+					<td>30020627魏巍</td>
+					<td>上行</td>
+					<td>08:50:47</td>
+					<td>56</td>
+					<td>3</td>
+					<td>08:53:00</td>
+					<td>08:53:13</td>
+					<td>2</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>38</td>
+					<td>9004</td>
+					<td>30020450朱慧</td>
+					<td>上行</td>
+					<td>08:50:51</td>
+					<td>50</td>
+					<td>7</td>
+					<td>08:57:00</td>
+					<td>08:57:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>39</td>
+					<td>9019</td>
+					<td>30020595李春盛</td>
+					<td>上行</td>
+					<td>08:56:05</td>
+					<td>49</td>
+					<td>4</td>
+					<td>09:00:00</td>
+					<td>09:00:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>40</td>
+					<td>9020</td>
+					<td>30020616赵光敏</td>
+					<td>上行</td>
+					<td>09:03:13</td>
+					<td>41</td>
+					<td>2</td>
+					<td>09:05:00</td>
+					<td>09:05:31</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>41</td>
+					<td>1029</td>
+					<td>30020573徐慎桃</td>
+					<td>上行</td>
+					<td>09:07:21</td>
+					<td>54</td>
+					<td>3</td>
+					<td>09:10:00</td>
+					<td>09:10:30</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>42</td>
+					<td>9447</td>
+					<td>30020451毛广军</td>
+					<td>上行</td>
+					<td>09:07:24</td>
+					<td>50</td>
+					<td>7</td>
+					<td>09:13:00</td>
+					<td>09:14:17</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>43</td>
+					<td>9007</td>
+					<td>30020465程玉青</td>
+					<td>上行</td>
+					<td>09:16:41</td>
+					<td>49</td>
+					<td>3</td>
+					<td>09:19:00</td>
+					<td>09:19:19</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>44</td>
+					<td>9435</td>
+					<td>30020565谢安东</td>
+					<td>上行</td>
+					<td>09:17:56</td>
+					<td>46</td>
+					<td>7</td>
+					<td>09:24:00</td>
+					<td>09:24:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>45</td>
+					<td>9006</td>
+					<td>30020484崔剑</td>
+					<td>上行</td>
+					<td>09:30:45</td>
+					<td>50</td>
+					<td>2</td>
+					<td>09:32:00</td>
+					<td>09:32:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>46</td>
+					<td>9001</td>
+					<td>30020519李璐</td>
+					<td>上行</td>
+					<td>09:30:50</td>
+					<td>43</td>
+					<td>5</td>
+					<td>09:35:00</td>
+					<td>09:35:12</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>47</td>
+					<td>9013</td>
+					<td>30020612王欣鑫</td>
+					<td>上行</td>
+					<td>09:35:16</td>
+					<td>39</td>
+					<td>4</td>
+					<td>09:39:00</td>
+					<td>09:39:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>48</td>
+					<td>4998</td>
+					<td>30020541吴会君</td>
+					<td>上行</td>
+					<td>09:35:43</td>
+					<td>59</td>
+					<td>8</td>
+					<td>09:43:00</td>
+					<td>09:43:19</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>49</td>
+					<td>9003</td>
+					<td>31022659吴彬</td>
+					<td>上行</td>
+					<td>09:39:15</td>
+					<td>48</td>
+					<td>9</td>
+					<td>09:48:00</td>
+					<td>09:48:21</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>50</td>
+					<td>9431</td>
+					<td>30120469阎亮</td>
+					<td>上行</td>
+					<td>09:51:52</td>
+					<td>47</td>
+					<td>2</td>
+					<td>09:53:00</td>
+					<td>09:53:22</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>51</td>
+					<td>9011</td>
+					<td>30020471陶红梅</td>
+					<td>上行</td>
+					<td>09:51:58</td>
+					<td>52</td>
+					<td>7</td>
+					<td>09:58:00</td>
+					<td>09:58:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>52</td>
+					<td>9014</td>
+					<td>30020603汪俊</td>
+					<td>上行</td>
+					<td>10:02:23</td>
+					<td>48</td>
+					<td>2</td>
+					<td>10:04:00</td>
+					<td>10:04:39</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>53</td>
+					<td>9010</td>
+					<td>30020540叶玉</td>
+					<td>上行</td>
+					<td>10:09:29</td>
+					<td>46</td>
+					<td>2</td>
+					<td>10:11:00</td>
+					<td>10:11:14</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>54</td>
+					<td>9428</td>
+					<td>30020563杨玮</td>
+					<td>上行</td>
+					<td>10:11:00</td>
+					<td>53</td>
+					<td>4</td>
+					<td>10:15:00</td>
+					<td>10:15:41</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>55</td>
+					<td>9008</td>
+					<td>30021866李尚成</td>
+					<td>上行</td>
+					<td>10:13:10</td>
+					<td>45</td>
+					<td>6</td>
+					<td>10:19:00</td>
+					<td>10:19:42</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>56</td>
+					<td>9436</td>
+					<td>30020577吴茂娟</td>
+					<td>上行</td>
+					<td>10:17:45</td>
+					<td>43</td>
+					<td>6</td>
+					<td>10:23:00</td>
+					<td>10:23:18</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>57</td>
+					<td>9012</td>
+					<td>30020513宫涛</td>
+					<td>上行</td>
+					<td>10:23:50</td>
+					<td>43</td>
+					<td>5</td>
+					<td>10:28:00</td>
+					<td>10:28:24</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>58</td>
+					<td>9005</td>
+					<td>30020627魏巍</td>
+					<td>上行</td>
+					<td>10:33:01</td>
+					<td>45</td>
+					<td>2</td>
+					<td>10:35:00</td>
+					<td>10:35:26</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>59</td>
+					<td>9004</td>
+					<td>30020450朱慧</td>
+					<td>上行</td>
+					<td>10:36:29</td>
+					<td>41</td>
+					<td>4</td>
+					<td>10:40:00</td>
+					<td>10:40:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>60</td>
+					<td>9019</td>
+					<td>30020595李春盛</td>
+					<td>上行</td>
+					<td>10:44:43</td>
+					<td>43</td>
+					<td>2</td>
+					<td>10:46:00</td>
+					<td>10:46:16</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>61</td>
+					<td>9020</td>
+					<td>30020616赵光敏</td>
+					<td>上行</td>
+					<td>10:49:30</td>
+					<td>42</td>
+					<td>4</td>
+					<td>10:53:00</td>
+					<td>10:53:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>62</td>
+					<td>9002</td>
+					<td>30020475胡海燕</td>
+					<td>上行</td>
+					<td>10:51:46</td>
+					<td>39</td>
+					<td>9</td>
+					<td>11:00:00</td>
+					<td>11:00:17</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>63</td>
+					<td>9447</td>
+					<td>30020451毛广军</td>
+					<td>上行</td>
+					<td>11:08:10</td>
+					<td>48</td>
+					<td>3</td>
+					<td>11:10:00</td>
+					<td>11:11:14</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>64</td>
+					<td>9007</td>
+					<td>30020465程玉青</td>
+					<td>上行</td>
+					<td>11:08:14</td>
+					<td>40</td>
+					<td>7</td>
+					<td>11:15:00</td>
+					<td>11:15:30</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>65</td>
+					<td>9006</td>
+					<td>30020484崔剑</td>
+					<td>上行</td>
+					<td>11:16:39</td>
+					<td>43</td>
+					<td>4</td>
+					<td>11:20:00</td>
+					<td>11:20:15</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>66</td>
+					<td>9001</td>
+					<td>30020515张国伟</td>
+					<td>上行</td>
+					<td>11:20:42</td>
+					<td>41</td>
+					<td>5</td>
+					<td>11:25:00</td>
+					<td>11:25:38</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>67</td>
+					<td>9003</td>
+					<td>31022659吴彬</td>
+					<td>上行</td>
+					<td>11:29:12</td>
+					<td>44</td>
+					<td>2</td>
+					<td>11:31:00</td>
+					<td>11:31:18</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>68</td>
+					<td>9013</td>
+					<td>30020612王欣鑫</td>
+					<td>上行</td>
+					<td>11:34:50</td>
+					<td>44</td>
+					<td>3</td>
+					<td>11:37:00</td>
+					<td>11:37:38</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>69</td>
+					<td>9431</td>
+					<td>30120469阎亮</td>
+					<td>上行</td>
+					<td>11:34:56</td>
+					<td>38</td>
+					<td>9</td>
+					<td>11:43:00</td>
+					<td>11:43:18</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>70</td>
+					<td>9011</td>
+					<td>30020471陶红梅</td>
+					<td>上行</td>
+					<td>11:47:09</td>
+					<td>44</td>
+					<td>2</td>
+					<td>11:49:00</td>
+					<td>11:49:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>71</td>
+					<td>4998</td>
+					<td>30020541吴会君</td>
+					<td>上行</td>
+					<td>11:56:05</td>
+					<td>46</td>
+					<td>2</td>
+					<td>11:58:00</td>
+					<td>11:58:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>72</td>
+					<td>9010</td>
+					<td>30020540叶玉</td>
+					<td>上行</td>
+					<td>12:03:29</td>
+					<td>46</td>
+					<td>2</td>
+					<td>12:05:00</td>
+					<td>12:05:17</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>73</td>
+					<td>9436</td>
+					<td>30020577吴茂娟</td>
+					<td>上行</td>
+					<td>12:03:30</td>
+					<td>39</td>
+					<td>8</td>
+					<td>12:11:00</td>
+					<td>12:11:16</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>74</td>
+					<td>9012</td>
+					<td>30020513宫涛</td>
+					<td>上行</td>
+					<td>12:11:23</td>
+					<td>40</td>
+					<td>7</td>
+					<td>12:18:00</td>
+					<td>12:18:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>75</td>
+					<td>9008</td>
+					<td>30021866李尚成</td>
+					<td>上行</td>
+					<td>12:18:53</td>
+					<td>41</td>
+					<td>6</td>
+					<td>12:24:00</td>
+					<td>12:24:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>76</td>
+					<td>9005</td>
+					<td>30020627魏巍</td>
+					<td>上行</td>
+					<td>12:23:24</td>
+					<td>37</td>
+					<td>9</td>
+					<td>12:32:00</td>
+					<td>12:32:16</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>77</td>
+					<td>9020</td>
+					<td>30020616赵光敏</td>
+					<td>上行</td>
+					<td>12:32:10</td>
+					<td>38</td>
+					<td>7</td>
+					<td>12:39:00</td>
+					<td>12:39:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>78</td>
+					<td>9002</td>
+					<td>30020573徐慎桃</td>
+					<td>上行</td>
+					<td>12:45:36</td>
+					<td>44</td>
+					<td>2</td>
+					<td>12:47:00</td>
+					<td>12:47:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>79</td>
+					<td>9009</td>
+					<td>30020481陈萍</td>
+					<td>上行</td>
+					<td>12:48:29</td>
+					<td>41</td>
+					<td>6</td>
+					<td>12:54:00</td>
+					<td>12:54:14</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>80</td>
+					<td>9007</td>
+					<td>30020465程玉青</td>
+					<td>上行</td>
+					<td>12:56:07</td>
+					<td>43</td>
+					<td>6</td>
+					<td>13:02:00</td>
+					<td>13:02:15</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>81</td>
+					<td>9432</td>
+					<td>30120473宗浩文</td>
+					<td>上行</td>
+					<td>13:06:27</td>
+					<td>46</td>
+					<td>3</td>
+					<td>13:09:00</td>
+					<td>13:09:22</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td>◇13</td>
+					<td>82</td>
+					<td>9003</td>
+					<td>31022659吴彬</td>
+					<td>上行</td>
+					<td>13:16:58</td>
+					<td>44</td>
+					<td>4</td>
+					<td>13:19:00</td>
+					<td>13:20:04</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>83</td>
+					<td>9431</td>
+					<td>30120469阎亮</td>
+					<td>上行</td>
+					<td>13:18:47</td>
+					<td>41</td>
+					<td>6</td>
+					<td>13:24:00</td>
+					<td>13:24:24</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>84</td>
+					<td>9011</td>
+					<td>30020471陶红梅</td>
+					<td>上行</td>
+					<td>13:27:30</td>
+					<td>43</td>
+					<td>3</td>
+					<td>13:30:00</td>
+					<td>13:30:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>85</td>
+					<td>9429</td>
+					<td>30026755倪飞</td>
+					<td>上行</td>
+					<td>13:34:50</td>
+					<td>43</td>
+					<td>6</td>
+					<td>13:40:00</td>
+					<td>13:40:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>86</td>
+					<td>9015</td>
+					<td>30020446顾文忠</td>
+					<td>上行</td>
+					<td>13:38:40</td>
+					<td>38</td>
+					<td>12</td>
+					<td>13:50:00</td>
+					<td>13:50:16</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>87</td>
+					<td>9001</td>
+					<td>30020519李璐</td>
+					<td>上行</td>
+					<td>13:51:08</td>
+					<td>41</td>
+					<td>7</td>
+					<td>13:58:00</td>
+					<td>13:58:12</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>88</td>
+					<td>9012</td>
+					<td>30020584赵军</td>
+					<td>上行</td>
+					<td>14:12:39</td>
+					<td>44</td>
+					<td>4</td>
+					<td>14:16:00</td>
+					<td>14:16:13</td>
+					<td>18</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>89</td>
+					<td>9002</td>
+					<td>30020573徐慎桃</td>
+					<td>上行</td>
+					<td>14:23:20</td>
+					<td>39</td>
+					<td>3</td>
+					<td>14:26:00</td>
+					<td>14:26:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>90</td>
+					<td>9428</td>
+					<td>30020563杨玮</td>
+					<td>上行</td>
+					<td>14:27:05</td>
+					<td>50</td>
+					<td>5</td>
+					<td>14:32:00</td>
+					<td>14:32:45</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>91</td>
+					<td>9436</td>
+					<td>30020577吴茂娟</td>
+					<td>上行</td>
+					<td>14:03:52</td>
+					<td>44</td>
+					<td>36</td>
+					<td>14:08:00</td>
+					<td>14:39:12</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>92</td>
+					<td>4998</td>
+					<td>30020551张庆刚</td>
+					<td>上行</td>
+					<td>14:42:03</td>
+					<td>49</td>
+					<td>2</td>
+					<td>14:44:00</td>
+					<td>14:44:28</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>93</td>
+					<td>9009</td>
+					<td>30020481陈萍</td>
+					<td>上行</td>
+					<td>14:46:28</td>
+					<td>46</td>
+					<td>3</td>
+					<td>14:49:00</td>
+					<td>14:49:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>94</td>
+					<td>9003</td>
+					<td>30020498付贞兵</td>
+					<td>上行</td>
+					<td>14:48:46</td>
+					<td>41</td>
+					<td>8</td>
+					<td>14:56:00</td>
+					<td>14:56:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>95</td>
+					<td>9432</td>
+					<td>30120473宗浩文</td>
+					<td>上行</td>
+					<td>15:00:51</td>
+					<td>44</td>
+					<td>4</td>
+					<td>15:04:00</td>
+					<td>15:04:18</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>96</td>
+					<td>9015</td>
+					<td>30020446顾文忠</td>
+					<td>上行</td>
+					<td>15:18:47</td>
+					<td>43</td>
+					<td>2</td>
+					<td>15:20:00</td>
+					<td>15:20:43</td>
+					<td>16</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>97</td>
+					<td>9013</td>
+					<td>30020467徐林</td>
+					<td>上行</td>
+					<td>15:22:00</td>
+					<td>42</td>
+					<td>5</td>
+					<td>15:27:00</td>
+					<td>15:27:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>98</td>
+					<td>9429</td>
+					<td>30026755倪飞</td>
+					<td>上行</td>
+					<td>15:35:01</td>
+					<td>48</td>
+					<td>3</td>
+					<td>15:38:00</td>
+					<td>15:38:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>99</td>
+					<td>9430</td>
+					<td>30020521赵世燕</td>
+					<td>上行</td>
+					<td>15:11:23</td>
+					<td>47</td>
+					<td>30</td>
+					<td>15:13:00</td>
+					<td>15:41:19</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>100</td>
+					<td>9010</td>
+					<td>31022574张亚伟</td>
+					<td>上行</td>
+					<td>15:39:39</td>
+					<td>45</td>
+					<td>3</td>
+					<td>15:42:00</td>
+					<td>15:42:13</td>
+					<td>1</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>101</td>
+					<td>9001</td>
+					<td>30020519李璐</td>
+					<td>上行</td>
+					<td>15:39:54</td>
+					<td>41</td>
+					<td>8</td>
+					<td>15:47:00</td>
+					<td>15:47:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>102</td>
+					<td>9014</td>
+					<td>30020603汪俊</td>
+					<td>上行</td>
+					<td>15:47:33</td>
+					<td>43</td>
+					<td>5</td>
+					<td>15:52:00</td>
+					<td>15:52:16</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>103</td>
+					<td>9020</td>
+					<td>30020496吴成</td>
+					<td>上行</td>
+					<td>15:50:10</td>
+					<td>41</td>
+					<td>8</td>
+					<td>15:58:00</td>
+					<td>15:58:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>104</td>
+					<td>9018</td>
+					<td>30020452吉玉海</td>
+					<td>上行</td>
+					<td>16:04:27</td>
+					<td>51</td>
+					<td>2</td>
+					<td>16:06:00</td>
+					<td>16:06:32</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>105</td>
+					<td>9012</td>
+					<td>30020584赵军</td>
+					<td>上行</td>
+					<td>16:04:38</td>
+					<td>47</td>
+					<td>6</td>
+					<td>16:10:00</td>
+					<td>16:10:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>106</td>
+					<td>9005</td>
+					<td>30016403钱奇</td>
+					<td>上行</td>
+					<td>16:06:30</td>
+					<td>44</td>
+					<td>9</td>
+					<td>16:15:00</td>
+					<td>16:15:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td>∧4</td>
+					<td>107</td>
+					<td>9435</td>
+					<td>30020565谢安东</td>
+					<td>上行</td>
+					<td>16:14:55</td>
+					<td>48</td>
+					<td>6</td>
+					<td>16:20:00</td>
+					<td>16:20:14</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>108</td>
+					<td>9016</td>
+					<td>30020556秦有才</td>
+					<td>上行</td>
+					<td>16:19:27</td>
+					<td>47</td>
+					<td>6</td>
+					<td>16:25:00</td>
+					<td>16:25:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>109</td>
+					<td>9002</td>
+					<td>30020573徐慎桃</td>
+					<td>上行</td>
+					<td>16:22:05</td>
+					<td>46</td>
+					<td>8</td>
+					<td>16:30:00</td>
+					<td>16:30:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>110</td>
+					<td>9447</td>
+					<td>30020451毛广军</td>
+					<td>上行</td>
+					<td>16:27:46</td>
+					<td>47</td>
+					<td>7</td>
+					<td>16:34:00</td>
+					<td>16:34:20</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>111</td>
+					<td>9004</td>
+					<td>30020523谢亚贤</td>
+					<td>上行</td>
+					<td>16:32:20</td>
+					<td>48</td>
+					<td>6</td>
+					<td>16:38:00</td>
+					<td>16:38:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>112</td>
+					<td>9428</td>
+					<td>30020563杨玮</td>
+					<td>上行</td>
+					<td>16:42:43</td>
+					<td>54</td>
+					<td>2</td>
+					<td>16:44:00</td>
+					<td>16:44:58</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>113</td>
+					<td>9007</td>
+					<td>30020525姚东栋</td>
+					<td>上行</td>
+					<td>16:43:05</td>
+					<td>50</td>
+					<td>6</td>
+					<td>16:49:00</td>
+					<td>16:49:20</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>114</td>
+					<td>9009</td>
+					<td>30020481陈萍</td>
+					<td>上行</td>
+					<td>16:46:44</td>
+					<td>49</td>
+					<td>7</td>
+					<td>16:53:00</td>
+					<td>16:53:16</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>115</td>
+					<td>9006</td>
+					<td>30020528张健</td>
+					<td>上行</td>
+					<td>16:49:07</td>
+					<td>46</td>
+					<td>8</td>
+					<td>16:57:00</td>
+					<td>16:57:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>116</td>
+					<td>9003</td>
+					<td>30020498付贞兵</td>
+					<td>上行</td>
+					<td>16:49:10</td>
+					<td>41</td>
+					<td>12</td>
+					<td>17:01:00</td>
+					<td>17:01:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>117</td>
+					<td>9019</td>
+					<td>30020595李春盛</td>
+					<td>上行</td>
+					<td>17:01:50</td>
+					<td>49</td>
+					<td>5</td>
+					<td>17:06:00</td>
+					<td>17:06:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>118</td>
+					<td>9011</td>
+					<td>30020586涂庭玖</td>
+					<td>上行</td>
+					<td>17:04:56</td>
+					<td>48</td>
+					<td>6</td>
+					<td>17:10:00</td>
+					<td>17:10:14</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>119</td>
+					<td>9432</td>
+					<td>30120473宗浩文</td>
+					<td>上行</td>
+					<td>17:14:59</td>
+					<td>52</td>
+					<td>2</td>
+					<td>17:16:00</td>
+					<td>17:16:28</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>120</td>
+					<td>9008</td>
+					<td>30020455王勇</td>
+					<td>上行</td>
+					<td>17:15:31</td>
+					<td>48</td>
+					<td>6</td>
+					<td>17:21:00</td>
+					<td>17:21:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td>0</td>
+					<td>121</td>
+					<td>4998</td>
+					<td>30020551张庆刚</td>
+					<td>上行</td>
+					<td>17:24:33</td>
+					<td>53</td>
+					<td>3</td>
+					<td>17:27:00</td>
+					<td>17:27:46</td>
+					<td>6</td>
+					<td>充电</td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>122</td>
+					<td>9430</td>
+					<td>30020521赵世燕</td>
+					<td>上行</td>
+					<td>17:24:46</td>
+					<td>49</td>
+					<td>8</td>
+					<td>17:32:00</td>
+					<td>17:32:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>123</td>
+					<td>9015</td>
+					<td>30020446顾文忠</td>
+					<td>上行</td>
+					<td>17:34:33</td>
+					<td>54</td>
+					<td>3</td>
+					<td>17:37:00</td>
+					<td>17:37:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>124</td>
+					<td>9013</td>
+					<td>30020467徐林</td>
+					<td>上行</td>
+					<td>17:36:54</td>
+					<td>52</td>
+					<td>6</td>
+					<td>17:42:00</td>
+					<td>17:42:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>125</td>
+					<td>9429</td>
+					<td>30026755倪飞</td>
+					<td>上行</td>
+					<td>17:43:47</td>
+					<td>54</td>
+					<td>3</td>
+					<td>17:46:00</td>
+					<td>17:46:28</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>126</td>
+					<td>9010</td>
+					<td>31022574张亚伟</td>
+					<td>上行</td>
+					<td>17:44:26</td>
+					<td>49</td>
+					<td>6</td>
+					<td>17:50:00</td>
+					<td>17:50:13</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>127</td>
+					<td>9014</td>
+					<td>30020603汪俊</td>
+					<td>上行</td>
+					<td>17:55:44</td>
+					<td>56</td>
+					<td>3</td>
+					<td>17:58:00</td>
+					<td>17:58:37</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>128</td>
+					<td>9001</td>
+					<td>30020515张国伟</td>
+					<td>上行</td>
+					<td>17:58:07</td>
+					<td>53</td>
+					<td>5</td>
+					<td>18:03:00</td>
+					<td>18:03:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>129</td>
+					<td>9020</td>
+					<td>30020496吴成</td>
+					<td>上行</td>
+					<td>18:03:26</td>
+					<td>52</td>
+					<td>5</td>
+					<td>18:08:00</td>
+					<td>18:08:14</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>130</td>
+					<td>9012</td>
+					<td>30020584赵军</td>
+					<td>上行</td>
+					<td>18:13:29</td>
+					<td>56</td>
+					<td>3</td>
+					<td>18:16:00</td>
+					<td>18:16:28</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>131</td>
+					<td>9435</td>
+					<td>30020565谢安东</td>
+					<td>上行</td>
+					<td>18:20:07</td>
+					<td>57</td>
+					<td>2</td>
+					<td>18:22:00</td>
+					<td>18:22:29</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>132</td>
+					<td>9005</td>
+					<td>30016403钱奇</td>
+					<td>上行</td>
+					<td>18:20:11</td>
+					<td>51</td>
+					<td>9</td>
+					<td>18:29:00</td>
+					<td>18:29:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>133</td>
+					<td>9016</td>
+					<td>30020556秦有才</td>
+					<td>上行</td>
+					<td>18:34:55</td>
+					<td>57</td>
+					<td>2</td>
+					<td>18:36:00</td>
+					<td>18:36:42</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>134</td>
+					<td>9018</td>
+					<td>30020475胡海燕</td>
+					<td>上行</td>
+					<td>18:43:07</td>
+					<td>58</td>
+					<td>3</td>
+					<td>18:46:00</td>
+					<td>18:46:26</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>135</td>
+					<td>9004</td>
+					<td>30020523谢亚贤</td>
+					<td>上行</td>
+					<td>18:56:03</td>
+					<td>63</td>
+					<td>2</td>
+					<td>18:58:00</td>
+					<td>18:58:15</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>136</td>
+					<td>9007</td>
+					<td>30020525姚东栋</td>
+					<td>上行</td>
+					<td>18:58:12</td>
+					<td>57</td>
+					<td>7</td>
+					<td>19:05:00</td>
+					<td>19:05:17</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>137</td>
+					<td>9006</td>
+					<td>30020528张健</td>
+					<td>上行</td>
+					<td>19:11:38</td>
+					<td>63</td>
+					<td>2</td>
+					<td>19:13:00</td>
+					<td>19:13:27</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>138</td>
+					<td>9003</td>
+					<td>30020498付贞兵</td>
+					<td>上行</td>
+					<td>19:11:40</td>
+					<td>55</td>
+					<td>7</td>
+					<td>19:18:00</td>
+					<td>19:18:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>139</td>
+					<td>9011</td>
+					<td>30020586涂庭玖</td>
+					<td>上行</td>
+					<td>19:19:37</td>
+					<td>54</td>
+					<td>5</td>
+					<td>19:24:00</td>
+					<td>19:24:14</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>140</td>
+					<td>9008</td>
+					<td>30020455王勇</td>
+					<td>上行</td>
+					<td>19:21:58</td>
+					<td>48</td>
+					<td>9</td>
+					<td>19:30:00</td>
+					<td>19:30:16</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>141</td>
+					<td>9019</td>
+					<td>30020521赵世燕</td>
+					<td>上行</td>
+					<td>19:25:24</td>
+					<td>42</td>
+					<td>10</td>
+					<td>19:35:00</td>
+					<td>19:35:14</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>142</td>
+					<td>9013</td>
+					<td>30020467徐林</td>
+					<td>上行</td>
+					<td>19:42:54</td>
+					<td>51</td>
+					<td>2</td>
+					<td>19:44:00</td>
+					<td>19:44:45</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>143</td>
+					<td>9010</td>
+					<td>31022574张亚伟</td>
+					<td>上行</td>
+					<td>19:46:32</td>
+					<td>45</td>
+					<td>5</td>
+					<td>19:51:00</td>
+					<td>19:51:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>144</td>
+					<td>9001</td>
+					<td>30020519李璐</td>
+					<td>上行</td>
+					<td>19:50:56</td>
+					<td>42</td>
+					<td>7</td>
+					<td>19:57:00</td>
+					<td>19:57:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>145</td>
+					<td>4998</td>
+					<td>30020551张庆刚</td>
+					<td>上行</td>
+					<td>20:04:54</td>
+					<td>48</td>
+					<td>3</td>
+					<td>20:06:00</td>
+					<td>20:07:05</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>146</td>
+					<td>9020</td>
+					<td>30020496吴成</td>
+					<td>上行</td>
+					<td>20:06:44</td>
+					<td>43</td>
+					<td>7</td>
+					<td>20:13:00</td>
+					<td>20:13:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>147</td>
+					<td>9012</td>
+					<td>30020584赵军</td>
+					<td>上行</td>
+					<td>20:15:30</td>
+					<td>45</td>
+					<td>4</td>
+					<td>20:19:00</td>
+					<td>20:19:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>148</td>
+					<td>9005</td>
+					<td>30016403钱奇</td>
+					<td>上行</td>
+					<td>20:17:17</td>
+					<td>39</td>
+					<td>8</td>
+					<td>20:25:00</td>
+					<td>20:25:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>149</td>
+					<td>9016</td>
+					<td>30020556秦有才</td>
+					<td>上行</td>
+					<td>20:28:59</td>
+					<td>43</td>
+					<td>12</td>
+					<td>20:40:00</td>
+					<td>20:40:11</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>150</td>
+					<td>9004</td>
+					<td>30020523谢亚贤</td>
+					<td>上行</td>
+					<td>20:36:31</td>
+					<td>42</td>
+					<td>7</td>
+					<td>20:43:00</td>
+					<td>20:43:13</td>
+					<td>3</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>151</td>
+					<td>9007</td>
+					<td>30020525姚东栋</td>
+					<td>上行</td>
+					<td>20:43:49</td>
+					<td>42</td>
+					<td>5</td>
+					<td>20:48:00</td>
+					<td>20:48:33</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>152</td>
+					<td>9006</td>
+					<td>30020528张健</td>
+					<td>上行</td>
+					<td>20:51:59</td>
+					<td>42</td>
+					<td>4</td>
+					<td>20:55:00</td>
+					<td>20:55:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>153</td>
+					<td>9003</td>
+					<td>30020498付贞兵</td>
+					<td>上行</td>
+					<td>20:57:29</td>
+					<td>39</td>
+					<td>5</td>
+					<td>21:02:00</td>
+					<td>21:02:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>154</td>
+					<td>9011</td>
+					<td>30020586涂庭玖</td>
+					<td>上行</td>
+					<td>21:11:08</td>
+					<td>45</td>
+					<td>2</td>
+					<td>21:13:00</td>
+					<td>21:13:15</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>155</td>
+					<td>9008</td>
+					<td>30020455王勇</td>
+					<td>上行</td>
+					<td>21:13:58</td>
+					<td>40</td>
+					<td>7</td>
+					<td>21:20:00</td>
+					<td>21:20:13</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>156</td>
+					<td>9019</td>
+					<td>30020521赵世燕</td>
+					<td>上行</td>
+					<td>21:23:41</td>
+					<td>41</td>
+					<td>7</td>
+					<td>21:30:00</td>
+					<td>21:30:18</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>157</td>
+					<td>9013</td>
+					<td>30020467徐林</td>
+					<td>上行</td>
+					<td>21:32:12</td>
+					<td>42</td>
+					<td>8</td>
+					<td>21:40:00</td>
+					<td>21:40:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>9</td>
+					<td></td>
+					<td>158</td>
+					<td>9010</td>
+					<td>31022574张亚伟</td>
+					<td>上行</td>
+					<td>21:48:19</td>
+					<td>48</td>
+					<td>2</td>
+					<td>21:50:00</td>
+					<td>21:50:43</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>159</td>
+					<td>9020</td>
+					<td>30020496吴成</td>
+					<td>上行</td>
+					<td>21:53:15</td>
+					<td>41</td>
+					<td>7</td>
+					<td>22:00:00</td>
+					<td>22:00:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>160</td>
+					<td>9016</td>
+					<td>30020556秦有才</td>
+					<td>上行</td>
+					<td>22:06:24</td>
+					<td>42</td>
+					<td>4</td>
+					<td>22:10:00</td>
+					<td>22:10:12</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>161</td>
+					<td>9004</td>
+					<td>30020523谢亚贤</td>
+					<td>上行</td>
+					<td>22:16:48</td>
+					<td>41</td>
+					<td>2</td>
+					<td>22:18:00</td>
+					<td>22:18:17</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>162</td>
+					<td>9007</td>
+					<td>30020525姚东栋</td>
+					<td>上行</td>
+					<td>22:27:19</td>
+					<td>39</td>
+					<td>3</td>
+					<td>22:30:00</td>
+					<td>22:30:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>163</td>
+					<td>9006</td>
+					<td>30020528张健</td>
+					<td>上行</td>
+					<td>22:40:57</td>
+					<td>41</td>
+					<td>5</td>
+					<td>22:45:00</td>
+					<td>22:45:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>10</td>
+					<td></td>
+					<td>164</td>
+					<td>9011</td>
+					<td>30020586涂庭玖</td>
+					<td>上行</td>
+					<td>22:54:23</td>
+					<td>39</td>
+					<td>6</td>
+					<td>23:00:00</td>
+					<td>23:00:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

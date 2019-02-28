@@ -1,0 +1,2011 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 江南公交第二巴士公司 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：55路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：天旺路 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              <td>1</td>
+			              
+			              <td>2</td>
+			              
+			              <td>3</td>
+			              
+			              <td>4</td>
+			              
+			              <td>5</td>
+			              
+			              <td>6</td>
+			              
+			              <td>7</td>
+			              
+			              <td>8</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>20</td>
+			              
+			              <td>21</td>
+			              
+			              <td>17</td>
+			              
+			              <td>15</td>
+			              
+			              <td>21</td>
+			              
+			              <td>20</td>
+			              
+			              <td>17</td>
+			              
+			              <td>7</td>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              <td>21</td>
+			              
+			              <td>16</td>
+			              
+			              <td>15</td>
+			              
+			              <td>11</td>
+			              
+			              <td>17</td>
+			              
+			              <td>13</td>
+			              
+			              <td>10</td>
+			              
+			              <td>4</td>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>138</td>
+			             </tr>
+			             <tr>
+			               <td>107</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td>1</td>
+					<td>0</td>
+					<td>1</td>
+					<td>9098</td>
+					<td>30022146谢永峰</td>
+					<td>天旺路到顾家营</td>
+					<td></td>
+					<td>0</td>
+					<td></td>
+					<td></td>
+					<td>04:34:39</td>
+					<td>首</td>
+					<td>拖菜</td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>2</td>
+					<td>9112</td>
+					<td>30022896徐祥</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:20:00</td>
+					<td>05:20:13</td>
+					<td>46</td>
+					<td>头班车</td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>3</td>
+					<td>9106</td>
+					<td>30000905王义发</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:26:00</td>
+					<td>05:26:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>4</td>
+					<td>9087</td>
+					<td>30019138范有丹</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:32:00</td>
+					<td>05:32:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>5</td>
+					<td>9093</td>
+					<td>30010911吕勇</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:38:00</td>
+					<td>05:39:21</td>
+					<td>7</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>6</td>
+					<td>9101</td>
+					<td>30026498刘祥兵</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:44:00</td>
+					<td>05:44:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>7</td>
+					<td>9089</td>
+					<td>30016118谢永刚</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:50:00</td>
+					<td>05:50:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>8</td>
+					<td>9111</td>
+					<td>30019206高宗海</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:56:00</td>
+					<td>05:55:29</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>9</td>
+					<td>9113</td>
+					<td>30022926周兆康</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:02:00</td>
+					<td>06:03:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>10</td>
+					<td>9098</td>
+					<td>30022146谢永峰</td>
+					<td>55路下行</td>
+					<td>05:53:56</td>
+					<td>44</td>
+					<td>15</td>
+					<td>06:08:00</td>
+					<td>06:08:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>11</td>
+					<td>9099</td>
+					<td>30019555丁小燕</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:14:00</td>
+					<td>06:14:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>12</td>
+					<td>9084</td>
+					<td>30015387刘敏</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:20:00</td>
+					<td>06:20:19</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>13</td>
+					<td>9108</td>
+					<td>30019288周德仁</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:25:00</td>
+					<td>06:26:19</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>14</td>
+					<td>9086</td>
+					<td>30020018王光飞</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:30:00</td>
+					<td>06:30:14</td>
+					<td>4</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>15</td>
+					<td>9092</td>
+					<td>30003675汪军</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:35:00</td>
+					<td>06:35:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>16</td>
+					<td>9105</td>
+					<td>30000788梅新强</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:40:00</td>
+					<td>06:40:13</td>
+					<td>5</td>
+					<td>卫桥事故</td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>17</td>
+					<td>9088</td>
+					<td>30020823朱申申</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:45:00</td>
+					<td>06:45:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>18</td>
+					<td>9100</td>
+					<td>30021354赵志刚</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:50:00</td>
+					<td>06:50:13</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>19</td>
+					<td>9107</td>
+					<td>30016275叶明飞</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>06:56:00</td>
+					<td>06:56:13</td>
+					<td>6</td>
+					<td>计20实19抽调2加1</td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>20</td>
+					<td>9091</td>
+					<td>30019565李福</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>07:02:00</td>
+					<td>07:02:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>1</td>
+					<td></td>
+					<td>21</td>
+					<td>9112</td>
+					<td>30022896徐祥</td>
+					<td>55路下行</td>
+					<td>07:00:30</td>
+					<td>50</td>
+					<td>11</td>
+					<td>07:11:00</td>
+					<td>07:11:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>22</td>
+					<td>9106</td>
+					<td>30000905王义发</td>
+					<td>55路下行</td>
+					<td>07:07:37</td>
+					<td>50</td>
+					<td>13</td>
+					<td>07:20:00</td>
+					<td>07:20:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>23</td>
+					<td>9087</td>
+					<td>30019138范有丹</td>
+					<td>55路下行</td>
+					<td>07:14:07</td>
+					<td>51</td>
+					<td>16</td>
+					<td>07:30:00</td>
+					<td>07:30:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>24</td>
+					<td>9093</td>
+					<td>30010911吕勇</td>
+					<td>55路下行</td>
+					<td>07:26:11</td>
+					<td>53</td>
+					<td>14</td>
+					<td>07:40:00</td>
+					<td>07:40:52</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>25</td>
+					<td>9089</td>
+					<td>30016118谢永刚</td>
+					<td>55路下行</td>
+					<td>07:35:06</td>
+					<td>50</td>
+					<td>15</td>
+					<td>07:50:00</td>
+					<td>07:50:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>26</td>
+					<td>9111</td>
+					<td>30019206高宗海</td>
+					<td>55路下行</td>
+					<td>07:45:22</td>
+					<td>56</td>
+					<td>15</td>
+					<td>08:00:00</td>
+					<td>08:00:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>27</td>
+					<td>9109</td>
+					<td>30020040窦全明</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>15</td>
+					<td>08:09:00</td>
+					<td>08:09:25</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>28</td>
+					<td>9113</td>
+					<td>30022926周兆康</td>
+					<td>55路下行</td>
+					<td>08:04:31</td>
+					<td>64</td>
+					<td>14</td>
+					<td>08:18:00</td>
+					<td>08:18:18</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>29</td>
+					<td>9098</td>
+					<td>30022146谢永峰</td>
+					<td>55路下行</td>
+					<td>08:15:51</td>
+					<td>66</td>
+					<td>13</td>
+					<td>08:28:00</td>
+					<td>08:28:24</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>30</td>
+					<td>9099</td>
+					<td>30019555丁小燕</td>
+					<td>55路下行</td>
+					<td>08:35:51</td>
+					<td>68</td>
+					<td>5</td>
+					<td>08:40:00</td>
+					<td>08:40:16</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>31</td>
+					<td>9084</td>
+					<td>30015387刘敏</td>
+					<td>55路下行</td>
+					<td>08:36:35</td>
+					<td>68</td>
+					<td>14</td>
+					<td>08:50:00</td>
+					<td>08:50:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>32</td>
+					<td>9086</td>
+					<td>30020018王光飞</td>
+					<td>55路下行</td>
+					<td>08:51:11</td>
+					<td>72</td>
+					<td>9</td>
+					<td>09:00:00</td>
+					<td>09:00:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>33</td>
+					<td>9108</td>
+					<td>30019288周德仁</td>
+					<td>55路下行</td>
+					<td>08:58:47</td>
+					<td>75</td>
+					<td>10</td>
+					<td>09:08:00</td>
+					<td>09:08:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>34</td>
+					<td>9088</td>
+					<td>30020823朱申申</td>
+					<td>55路下行</td>
+					<td>09:12:26</td>
+					<td>62</td>
+					<td>4</td>
+					<td>09:16:00</td>
+					<td>09:16:41</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>35</td>
+					<td>9100</td>
+					<td>30021354赵志刚</td>
+					<td>55路下行</td>
+					<td>09:17:19</td>
+					<td>65</td>
+					<td>5</td>
+					<td>09:22:00</td>
+					<td>09:22:44</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>36</td>
+					<td>9092</td>
+					<td>30003675汪军</td>
+					<td>55路下行</td>
+					<td>09:11:20</td>
+					<td>63</td>
+					<td>17</td>
+					<td>09:28:00</td>
+					<td>09:28:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>2</td>
+					<td></td>
+					<td>37</td>
+					<td>9083</td>
+					<td>30014534季荣红</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>17</td>
+					<td>09:34:00</td>
+					<td>09:34:49</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>38</td>
+					<td>9107</td>
+					<td>30016275叶明飞</td>
+					<td>55路下行</td>
+					<td>09:28:31</td>
+					<td>62</td>
+					<td>12</td>
+					<td>09:40:00</td>
+					<td>09:40:13</td>
+					<td>6</td>
+					<td>计21实19抽调2</td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>39</td>
+					<td>9091</td>
+					<td>30019565李福</td>
+					<td>55路下行</td>
+					<td>09:38:04</td>
+					<td>58</td>
+					<td>8</td>
+					<td>09:46:00</td>
+					<td>09:46:17</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>40</td>
+					<td>9112</td>
+					<td>30022896徐祥</td>
+					<td>55路下行</td>
+					<td>09:39:59</td>
+					<td>58</td>
+					<td>13</td>
+					<td>09:52:00</td>
+					<td>09:52:13</td>
+					<td>6</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>41</td>
+					<td>9106</td>
+					<td>30000905王义发</td>
+					<td>55路下行</td>
+					<td>09:42:25</td>
+					<td>58</td>
+					<td>18</td>
+					<td>10:00:00</td>
+					<td>10:00:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>42</td>
+					<td>9093</td>
+					<td>30010911吕勇</td>
+					<td>55路下行</td>
+					<td>09:59:25</td>
+					<td>54</td>
+					<td>11</td>
+					<td>10:10:00</td>
+					<td>10:10:56</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>43</td>
+					<td>9087</td>
+					<td>30019138范有丹</td>
+					<td>55路下行</td>
+					<td>09:54:07</td>
+					<td>58</td>
+					<td>26</td>
+					<td>10:20:00</td>
+					<td>10:20:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>44</td>
+					<td>9101</td>
+					<td>30026498刘祥兵</td>
+					<td>顾家营到天旺路</td>
+					<td>09:05:23</td>
+					<td>3</td>
+					<td>85</td>
+					<td>10:30:00</td>
+					<td>10:30:45</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>45</td>
+					<td>9089</td>
+					<td>30016118谢永刚</td>
+					<td>55路下行</td>
+					<td>09:59:19</td>
+					<td>47</td>
+					<td>41</td>
+					<td>10:40:00</td>
+					<td>10:40:14</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>46</td>
+					<td>9111</td>
+					<td>30019206高宗海</td>
+					<td>55路下行</td>
+					<td>10:23:16</td>
+					<td>60</td>
+					<td>27</td>
+					<td>10:50:00</td>
+					<td>10:50:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>47</td>
+					<td>9113</td>
+					<td>30022926周兆康</td>
+					<td>55路下行</td>
+					<td>10:44:37</td>
+					<td>64</td>
+					<td>16</td>
+					<td>11:00:00</td>
+					<td>11:00:24</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>48</td>
+					<td>9104</td>
+					<td>30019555丁小燕</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>16</td>
+					<td>11:10:00</td>
+					<td>11:10:13</td>
+					<td>10</td>
+					<td>换车</td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>49</td>
+					<td>9084</td>
+					<td>30015387刘敏</td>
+					<td>55路下行</td>
+					<td>10:55:56</td>
+					<td>59</td>
+					<td>25</td>
+					<td>11:20:00</td>
+					<td>11:20:26</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>50</td>
+					<td>9108</td>
+					<td>30019288周德仁</td>
+					<td>55路下行</td>
+					<td>11:05:53</td>
+					<td>57</td>
+					<td>25</td>
+					<td>11:30:00</td>
+					<td>11:30:14</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>51</td>
+					<td>9100</td>
+					<td>30021354赵志刚</td>
+					<td>55路下行</td>
+					<td>11:23:00</td>
+					<td>58</td>
+					<td>20</td>
+					<td>11:42:00</td>
+					<td>11:43:44</td>
+					<td>13</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>3</td>
+					<td></td>
+					<td>52</td>
+					<td>9088</td>
+					<td>30020823朱申申</td>
+					<td>55路下行</td>
+					<td>11:22:54</td>
+					<td>59</td>
+					<td>32</td>
+					<td>11:54:00</td>
+					<td>11:54:13</td>
+					<td>11</td>
+					<td>计17实14塌停2小修1</td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>53</td>
+					<td>9085</td>
+					<td>30016782王欢欢</td>
+					<td>顾家营到天旺路</td>
+					<td>11:37:52</td>
+					<td>16</td>
+					<td>28</td>
+					<td>12:05:00</td>
+					<td>12:05:24</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>54</td>
+					<td>9086</td>
+					<td>30020018王光飞</td>
+					<td>顾家营到天旺路</td>
+					<td>11:35:26</td>
+					<td>16</td>
+					<td>41</td>
+					<td>12:16:00</td>
+					<td>12:16:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td>∧2</td>
+					<td>55</td>
+					<td>9105</td>
+					<td>30000788梅新强</td>
+					<td>顾家营到天旺路</td>
+					<td></td>
+					<td>0</td>
+					<td>41</td>
+					<td>12:27:00</td>
+					<td>12:27:34</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>56</td>
+					<td>9110</td>
+					<td>30022892言克江</td>
+					<td>顾家营到天旺路</td>
+					<td>11:38:38</td>
+					<td>2</td>
+					<td>60</td>
+					<td>12:38:00</td>
+					<td>12:38:15</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>57</td>
+					<td>9095</td>
+					<td>30015479刘金</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>60</td>
+					<td>12:47:00</td>
+					<td>12:47:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>58</td>
+					<td>9103</td>
+					<td>30018739姬虎</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>60</td>
+					<td>12:59:00</td>
+					<td>12:59:36</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>59</td>
+					<td>9083</td>
+					<td>30014534季荣红</td>
+					<td>55路下行</td>
+					<td>11:37:38</td>
+					<td>45</td>
+					<td>93</td>
+					<td>13:10:00</td>
+					<td>13:10:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>60</td>
+					<td>9107</td>
+					<td>30016275叶明飞</td>
+					<td>顾家营到天旺路</td>
+					<td>12:16:15</td>
+					<td>15</td>
+					<td>64</td>
+					<td>13:20:00</td>
+					<td>13:20:14</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>61</td>
+					<td>9112</td>
+					<td>31227413高询</td>
+					<td>顾家营到天旺路</td>
+					<td>12:27:29</td>
+					<td>14</td>
+					<td>63</td>
+					<td>13:30:00</td>
+					<td>13:30:18</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>62</td>
+					<td>9101</td>
+					<td>30020088柳有红</td>
+					<td>顾家营到天旺路</td>
+					<td>12:59:09</td>
+					<td>3</td>
+					<td>41</td>
+					<td>13:40:00</td>
+					<td>13:40:38</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>4</td>
+					<td></td>
+					<td>63</td>
+					<td>9097</td>
+					<td>30019250杨广</td>
+					<td>顾家营到天旺路</td>
+					<td>13:36:47</td>
+					<td>14</td>
+					<td>14</td>
+					<td>13:50:00</td>
+					<td>13:50:13</td>
+					<td>10</td>
+					<td>计15实11，塌4</td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>64</td>
+					<td>9098</td>
+					<td>30026753高明</td>
+					<td>顾家营到天旺路</td>
+					<td></td>
+					<td>0</td>
+					<td>14</td>
+					<td></td>
+					<td>14:00:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>65</td>
+					<td>9091</td>
+					<td>30021867苏荣国</td>
+					<td>顾家营到天旺路</td>
+					<td>12:55:56</td>
+					<td>2</td>
+					<td>75</td>
+					<td>14:10:00</td>
+					<td>14:10:13</td>
+					<td>10</td>
+					<td>换车</td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>66</td>
+					<td>9104</td>
+					<td>30021764史光忠</td>
+					<td>顾家营到天旺路</td>
+					<td>13:42:11</td>
+					<td>15</td>
+					<td>43</td>
+					<td>14:20:00</td>
+					<td>14:25:42</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>67</td>
+					<td>9085</td>
+					<td>30016782王欢欢</td>
+					<td>55路下行</td>
+					<td>14:06:54</td>
+					<td>60</td>
+					<td>24</td>
+					<td>14:30:00</td>
+					<td>14:30:19</td>
+					<td>5</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>68</td>
+					<td>9099</td>
+					<td>30020103郗明生</td>
+					<td>顾家营到天旺路</td>
+					<td>13:19:03</td>
+					<td>4</td>
+					<td>81</td>
+					<td>14:40:00</td>
+					<td>14:40:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>69</td>
+					<td>9084</td>
+					<td>30026859李岩磊</td>
+					<td>顾家营到天旺路</td>
+					<td>13:55:02</td>
+					<td>4</td>
+					<td>54</td>
+					<td>14:49:00</td>
+					<td>14:49:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>70</td>
+					<td>9110</td>
+					<td>30022892言克江</td>
+					<td>55路下行</td>
+					<td>14:24:47</td>
+					<td>49</td>
+					<td>34</td>
+					<td>14:58:00</td>
+					<td>14:58:13</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>71</td>
+					<td>9086</td>
+					<td>30020018王光飞</td>
+					<td>55路下行</td>
+					<td>14:12:35</td>
+					<td>58</td>
+					<td>54</td>
+					<td>15:06:00</td>
+					<td>15:06:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>72</td>
+					<td>9093</td>
+					<td>30001151侯雪峰</td>
+					<td>顾家营到天旺路</td>
+					<td>12:56:04</td>
+					<td>17</td>
+					<td>138</td>
+					<td>15:14:00</td>
+					<td>15:14:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>73</td>
+					<td>9105</td>
+					<td>30000788梅新强</td>
+					<td>55路下行</td>
+					<td>14:24:32</td>
+					<td>55</td>
+					<td>58</td>
+					<td>15:22:00</td>
+					<td>15:22:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>74</td>
+					<td>9087</td>
+					<td>30022937彭高顺</td>
+					<td>顾家营到天旺路</td>
+					<td>12:59:09</td>
+					<td>14</td>
+					<td>151</td>
+					<td>15:30:00</td>
+					<td>15:30:17</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>75</td>
+					<td>9112</td>
+					<td>31227413高询</td>
+					<td>55路下行</td>
+					<td>15:24:16</td>
+					<td>53</td>
+					<td>14</td>
+					<td>15:38:00</td>
+					<td>15:38:14</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>76</td>
+					<td>9107</td>
+					<td>30016275叶明飞</td>
+					<td>55路下行</td>
+					<td>15:23:43</td>
+					<td>58</td>
+					<td>23</td>
+					<td>15:46:00</td>
+					<td>15:46:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>77</td>
+					<td>9094</td>
+					<td>30018034刘志伟</td>
+					<td>顾家营到天旺路</td>
+					<td>14:47:48</td>
+					<td>17</td>
+					<td>67</td>
+					<td>15:54:00</td>
+					<td>15:54:13</td>
+					<td>8</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>78</td>
+					<td>9101</td>
+					<td>30020088柳有红</td>
+					<td>55路下行</td>
+					<td>15:47:17</td>
+					<td>62</td>
+					<td>16</td>
+					<td>16:03:00</td>
+					<td>16:03:13</td>
+					<td>9</td>
+					<td>计21实15，未排2塌4</td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>79</td>
+					<td>9111</td>
+					<td>30000828王庭驿</td>
+					<td>顾家营到天旺路</td>
+					<td>13:19:05</td>
+					<td>17</td>
+					<td>173</td>
+					<td>16:12:00</td>
+					<td>16:12:19</td>
+					<td>9</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>5</td>
+					<td></td>
+					<td>80</td>
+					<td>9113</td>
+					<td>30022904范厚喜</td>
+					<td>顾家营到天旺路</td>
+					<td>13:39:07</td>
+					<td>4</td>
+					<td>163</td>
+					<td>16:22:00</td>
+					<td>16:22:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>81</td>
+					<td>9098</td>
+					<td>30026753高明</td>
+					<td>55路下行</td>
+					<td>16:03:19</td>
+					<td>58</td>
+					<td>29</td>
+					<td>16:32:00</td>
+					<td>16:32:14</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>82</td>
+					<td>9092</td>
+					<td>30021867苏荣国</td>
+					<td>顾家营到天旺路</td>
+					<td>14:05:00</td>
+					<td>15</td>
+					<td>157</td>
+					<td>16:42:00</td>
+					<td>16:42:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>83</td>
+					<td>9104</td>
+					<td>30021764史光忠</td>
+					<td>55路下行</td>
+					<td>16:24:06</td>
+					<td>59</td>
+					<td>28</td>
+					<td>16:52:00</td>
+					<td>16:52:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>84</td>
+					<td>9085</td>
+					<td>30016782王欢欢</td>
+					<td>55路下行</td>
+					<td>16:28:54</td>
+					<td>57</td>
+					<td>34</td>
+					<td>17:02:00</td>
+					<td>17:02:16</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>85</td>
+					<td>9108</td>
+					<td>30012805沈长浩</td>
+					<td>顾家营到天旺路</td>
+					<td>14:01:06</td>
+					<td>16</td>
+					<td>193</td>
+					<td>17:13:00</td>
+					<td>17:14:00</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>86</td>
+					<td>9084</td>
+					<td>30026859李岩磊</td>
+					<td>55路下行</td>
+					<td>16:46:20</td>
+					<td>58</td>
+					<td>38</td>
+					<td>17:24:00</td>
+					<td>17:24:13</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>87</td>
+					<td>9099</td>
+					<td>30020103郗明生</td>
+					<td>55路下行</td>
+					<td>16:42:33</td>
+					<td>62</td>
+					<td>54</td>
+					<td>17:36:00</td>
+					<td>17:36:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>88</td>
+					<td>9097</td>
+					<td>30019250杨广</td>
+					<td>55路下行</td>
+					<td>15:45:53</td>
+					<td>57</td>
+					<td>123</td>
+					<td>17:48:00</td>
+					<td>17:48:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>89</td>
+					<td>9110</td>
+					<td>30022892言克江</td>
+					<td>55路下行</td>
+					<td>16:49:46</td>
+					<td>55</td>
+					<td>71</td>
+					<td>18:00:00</td>
+					<td>18:00:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>90</td>
+					<td>9093</td>
+					<td>30001151侯雪峰</td>
+					<td>55路下行</td>
+					<td>17:37:53</td>
+					<td>73</td>
+					<td>35</td>
+					<td>18:12:00</td>
+					<td>18:12:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>91</td>
+					<td>9112</td>
+					<td>31227413高询</td>
+					<td>55路下行</td>
+					<td>18:01:25</td>
+					<td>80</td>
+					<td>23</td>
+					<td>18:24:00</td>
+					<td>18:24:43</td>
+					<td>12</td>
+					<td>计20实13，未排2支援4塌1</td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>92</td>
+					<td>9087</td>
+					<td>30022937彭高顺</td>
+					<td>55路下行</td>
+					<td>18:00:04</td>
+					<td>78</td>
+					<td>36</td>
+					<td>18:36:00</td>
+					<td>18:36:17</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>6</td>
+					<td></td>
+					<td>93</td>
+					<td>9094</td>
+					<td>30018034刘志伟</td>
+					<td>55路下行</td>
+					<td>18:19:05</td>
+					<td>75</td>
+					<td>29</td>
+					<td>18:48:00</td>
+					<td>18:48:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>94</td>
+					<td>9101</td>
+					<td>30020088柳有红</td>
+					<td>55路下行</td>
+					<td>18:27:46</td>
+					<td>76</td>
+					<td>33</td>
+					<td>19:00:00</td>
+					<td>19:00:14</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>95</td>
+					<td>9113</td>
+					<td>30022904范厚喜</td>
+					<td>55路下行</td>
+					<td>18:54:21</td>
+					<td>81</td>
+					<td>21</td>
+					<td>19:15:00</td>
+					<td>19:15:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>96</td>
+					<td>9111</td>
+					<td>30000828王庭驿</td>
+					<td>55路下行</td>
+					<td>18:38:30</td>
+					<td>80</td>
+					<td>47</td>
+					<td>19:25:00</td>
+					<td>19:25:22</td>
+					<td>10</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>97</td>
+					<td>9098</td>
+					<td>30026753高明</td>
+					<td>55路下行</td>
+					<td>18:52:11</td>
+					<td>71</td>
+					<td>44</td>
+					<td>19:36:00</td>
+					<td>19:36:13</td>
+					<td>11</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>98</td>
+					<td>9092</td>
+					<td>30021867苏荣国</td>
+					<td>55路下行</td>
+					<td>19:18:55</td>
+					<td>84</td>
+					<td>30</td>
+					<td>19:48:00</td>
+					<td>19:48:13</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>99</td>
+					<td>9104</td>
+					<td>30021764史光忠</td>
+					<td>55路下行</td>
+					<td>19:25:23</td>
+					<td>78</td>
+					<td>35</td>
+					<td>20:00:00</td>
+					<td>20:00:28</td>
+					<td>12</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>100</td>
+					<td>9084</td>
+					<td>30026859李岩磊</td>
+					<td>55路下行</td>
+					<td>19:57:17</td>
+					<td>62</td>
+					<td>18</td>
+					<td>20:15:00</td>
+					<td>20:15:13</td>
+					<td>15</td>
+					<td>计17实9，未排2统车1独停1分停2塌2</td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>101</td>
+					<td>9099</td>
+					<td>30020103郗明生</td>
+					<td>55路下行</td>
+					<td>20:05:04</td>
+					<td>63</td>
+					<td>25</td>
+					<td>20:30:00</td>
+					<td>20:30:23</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>102</td>
+					<td>9093</td>
+					<td>30001151侯雪峰</td>
+					<td>55路下行</td>
+					<td>20:29:24</td>
+					<td>70</td>
+					<td>16</td>
+					<td>20:45:00</td>
+					<td>20:45:14</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>7</td>
+					<td></td>
+					<td>103</td>
+					<td>9087</td>
+					<td>30022937彭高顺</td>
+					<td>55路下行</td>
+					<td>20:34:14</td>
+					<td>56</td>
+					<td>26</td>
+					<td>21:00:00</td>
+					<td>21:00:15</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>104</td>
+					<td>9094</td>
+					<td>30018034刘志伟</td>
+					<td>55路下行</td>
+					<td>20:40:51</td>
+					<td>56</td>
+					<td>35</td>
+					<td>21:15:00</td>
+					<td>21:15:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>105</td>
+					<td>9113</td>
+					<td>30022904范厚喜</td>
+					<td>55路下行</td>
+					<td>21:17:43</td>
+					<td>62</td>
+					<td>13</td>
+					<td>21:30:00</td>
+					<td>21:30:13</td>
+					<td>15</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>106</td>
+					<td>9111</td>
+					<td>30000828王庭驿</td>
+					<td>55路下行</td>
+					<td>21:16:58</td>
+					<td>54</td>
+					<td>34</td>
+					<td>21:50:00</td>
+					<td>21:50:18</td>
+					<td>20</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td>8</td>
+					<td></td>
+					<td>107</td>
+					<td>3860</td>
+					<td>30012805沈长浩</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>34</td>
+					<td>22:10:00</td>
+					<td>22:10:19</td>
+					<td>20</td>
+					<td>换车，计7实7</td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>
