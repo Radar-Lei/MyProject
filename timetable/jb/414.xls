@@ -1,0 +1,416 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 浦口公司七车队 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：414路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：石桥客运站 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:30:00</td>
+					<td>06:32:50</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td>2</td>
+					<td>0</td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>07:00:39</td>
+					<td>28</td>
+					<td>无</td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>07:11:56</td>
+					<td>11</td>
+					<td>34</td>
+					<td>07:45:00</td>
+					<td>07:45:47</td>
+					<td>45</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>07:49:04</td>
+					<td>11</td>
+					<td>27</td>
+					<td>08:15:00</td>
+					<td>08:16:10</td>
+					<td>31</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>08:25:15</td>
+					<td>10</td>
+					<td>37</td>
+					<td>09:00:00</td>
+					<td>09:02:05</td>
+					<td>46</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>08:55:45</td>
+					<td>10</td>
+					<td>36</td>
+					<td>09:30:00</td>
+					<td>09:31:33</td>
+					<td>29</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>09:39:51</td>
+					<td>9</td>
+					<td>37</td>
+					<td>10:15:00</td>
+					<td>10:16:08</td>
+					<td>45</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>10:10:15</td>
+					<td>10</td>
+					<td>36</td>
+					<td>10:45:00</td>
+					<td>10:46:19</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>11:22:54</td>
+					<td>7</td>
+					<td>38</td>
+					<td>12:00:00</td>
+					<td>12:00:45</td>
+					<td>74</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>11:05:15</td>
+					<td>20</td>
+					<td>102</td>
+					<td>12:45:00</td>
+					<td>12:47:18</td>
+					<td>47</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>13:25:06</td>
+					<td>9</td>
+					<td>20</td>
+					<td>13:25:09</td>
+					<td>13:45:59</td>
+					<td>58</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>12:42:02</td>
+					<td>12</td>
+					<td>105</td>
+					<td>12:45:01</td>
+					<td>14:27:56</td>
+					<td>42</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>14:24:23</td>
+					<td>9</td>
+					<td>51</td>
+					<td>14:24:26</td>
+					<td>15:15:48</td>
+					<td>48</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>15:11:44</td>
+					<td>11</td>
+					<td>34</td>
+					<td>15:11:47</td>
+					<td>15:45:46</td>
+					<td>30</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3087</td>
+					<td>陈礼才</td>
+					<td>414路下行</td>
+					<td>15:56:16</td>
+					<td>10</td>
+					<td>35</td>
+					<td>15:57:28</td>
+					<td>16:31:20</td>
+					<td>46</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>3086</td>
+					<td>刘贤武</td>
+					<td>414路下行</td>
+					<td>16:25:48</td>
+					<td>10</td>
+					<td>66</td>
+					<td>17:30:00</td>
+					<td>17:31:09</td>
+					<td>60</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>

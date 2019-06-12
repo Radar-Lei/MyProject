@@ -1,0 +1,280 @@
+
+
+
+
+
+<html>
+	<head>
+		<title>行车记录表</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+		<script type="text/javascript" src="/aptsIMDNJ/js/baseinfo/calendar.js"></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/util.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/engine.js'></script>
+		<script type='text/javascript' src='/aptsIMDNJ/dwr/interface/service.js'></script>	
+<style> 
+.a.td
+{ 
+border-right:solid 1px black; 
+} 
+</style> 
+  
+  <body>
+    <table border="1" align="center" width="100%">
+              <tr >
+				<td colspan=10 align="center">
+				     <font size=3> 浦口公司二车队 </font>
+				<br>
+				<font size=5><u>行 车 记 录 表</u> </font> &nbsp;&nbsp; 
+				<br>
+				<font size=3>线路：401路 &nbsp;&nbsp;&nbsp;&nbsp;
+					总站名称：江浦客运站 &nbsp;&nbsp;&nbsp;&nbsp;2018-12-05&nbsp;&nbsp;
+					星期三 
+			     <br><br>
+			     早班站长 
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp; 
+			     中班站长  
+			     
+			     &nbsp;&nbsp;&nbsp;&nbsp;
+			     晚班站长  
+			       
+			      </font>		
+				</td>
+		    </tr>
+		    <tr>
+		        <td colspan=1>
+			        <table width="100%" align="center">
+			            <tr>
+			              <td>循次</td>
+			            </tr>
+			            <tr>
+			              <td>计划车次</td>
+			            </tr>
+			            <tr>
+			               <td>实际车次</td>
+			            </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=7>
+			        <table width="100%" border="1">
+			           
+			              
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			              <tr>
+			              
+			              </tr>
+			           
+			        </table>
+			    </td>
+			    <td colspan=2>
+			         <table width="100%" border="1">
+			         
+			             <tr>
+			               <td>合计</td>
+			             </tr>
+			             
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             <tr>
+			               <td>0</td>
+			             </tr>
+			             
+			         </table>
+			    </td>
+		  </tr>
+		  <tr>
+		            <td>
+						循次
+					</td>
+					<td>
+						路排
+					</td>
+					<td>
+						车次
+					</td>
+					<td>
+						车号
+					</td>
+					<td>
+						驾驶员
+					</td>
+					<td>
+						服务
+					</td>
+					<td>
+						到达时间
+					</td>
+					<td>
+						实驶时间(分钟)
+					</td>
+					<td>
+						停歇时间（分钟）
+					</td>
+					<td>
+						调度时间
+					</td>
+					<td>
+						开出时间
+					</td>
+					<td>
+						间隔（分钟）
+					</td>
+					<td>
+						备注
+					</td>
+		  </tr>
+		  
+		  
+
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2095</td>
+					<td>金贤富</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>05:40:58</td>
+					<td>首</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2096</td>
+					<td>窦世义</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>06:31:04</td>
+					<td>51</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2095</td>
+					<td>金贤富</td>
+					<td>401路下行</td>
+					<td>07:22:30</td>
+					<td>47</td>
+					<td>69</td>
+					<td></td>
+					<td>08:31:41</td>
+					<td>120</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2096</td>
+					<td>窦世义</td>
+					<td>401路下行</td>
+					<td>08:15:07</td>
+					<td>50</td>
+					<td>95</td>
+					<td></td>
+					<td>09:50:47</td>
+					<td>79</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2095</td>
+					<td>金贤富</td>
+					<td>401路下行</td>
+					<td>10:10:08</td>
+					<td>43</td>
+					<td>81</td>
+					<td></td>
+					<td>11:31:24</td>
+					<td>101</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2096</td>
+					<td>窦世义</td>
+					<td>401路下行</td>
+					<td>11:29:56</td>
+					<td>45</td>
+					<td>122</td>
+					<td></td>
+					<td>13:31:27</td>
+					<td>120</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2095</td>
+					<td>金贤富</td>
+					<td>七里桥到江浦</td>
+					<td>13:40:51</td>
+					<td>13</td>
+					<td>110</td>
+					<td></td>
+					<td>15:30:50</td>
+					<td>119</td>
+					<td></td>
+				</tr>
+				
+				<tr>
+					
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>2096</td>
+					<td>窦世义</td>
+					<td>401路下行</td>
+					<td>15:10:04</td>
+					<td>46</td>
+					<td>130</td>
+					<td></td>
+					<td>17:20:46</td>
+					<td>110</td>
+					<td></td>
+				</tr>
+				
+				
+				
+				
+    </table>
+  </body>
+</html>
